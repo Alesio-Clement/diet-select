@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Fri, 05 Jan 2024 13:53:27 +0100</pubDate><title><![CDATA[Welcome to GetSimple!]]></title><url><![CDATA[index]]></url><meta><![CDATA[getsimple, easy, content management system]]></meta><metad/><menu><![CDATA[Home]]></menu><menuOrder><![CDATA[1]]></menuOrder><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent/><content><![CDATA[
+        <section class="p-0 mx-lg-1-9 mx-xxl-10">
+            <div class="container-fluid px-0 z-index-2 position-relative">
+                <div class="slider-fade-02 owl-carousel owl-theme w-100">
+                    <div class="item bg-img cover-background pt-6 pb-10 pt-sm-6 pb-sm-14 py-md-16 py-lg-20 py-xxl-23 border-radius-10" data-overlay-dark="6" data-background="./data/uploads/banner-1.webp">
+                        <div class="container pt-6 pt-md-0 my-xxl-2">
+                            <div class="row justify-content-end text-end align-items-center">
+                                <div class="col-md-10 col-lg-8 col-xl-7">
+                                    <h1 class="display-17 display-sm-11 display-md-9 display-lg-8 display-xl-3 display-xxl-2 mb-lg-3 text-white">Empowering Health through  <span class="text-secondary">Informed  </span>Choices</h1>
+                                    <p class="lead opacity7 text-white mb-1-6 mb-md-2-2">We encourage you to fix and forestall illness with nourishment for carrying on with your life in a solid manner.</p>
+                                    <a href="contact/" class="butn-style01 secondary"><span>Get Started Now</span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item bg-img cover-background pt-6 pb-10 pt-sm-6 pb-sm-14 py-md-16 py-lg-20 py-xxl-23 border-radius-10" data-overlay-dark="6" data-background="./data/uploads/banner-2.webp">
+                        <div class="container pt-6 pt-md-0 my-xxl-2">
+                            <div class="row justify-content-end text-end align-items-center">
+                                <div class="col-md-10 col-lg-8 col-xl-7">
+                                    <h1 class="display-17 display-sm-11 display-md-9 display-lg-8 display-xl-3 display-xxl-2 mb-lg-3 text-white">Keeping Your Body at its<span class="text-secondary"> Best.</span></h1>
+                                    <p class="lead opacity7 text-white mb-1-6 mb-md-2-2">We encourage you to fix and forestall illness with nourishment for carrying on with your life in a solid manner.</p>
+                                    <a href="contact/" class="butn-style01 secondary"><span>Get Started Now</span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item bg-img cover-background pt-6 pb-10 pt-sm-6 pb-sm-14 py-md-16 py-lg-20 py-xxl-23 border-radius-10" data-overlay-dark="6" data-background="./data/uploads/banner-3.webp">
+                        <div class="container pt-6 pt-md-0 my-xxl-2">
+                            <div class="row justify-content-end text-end align-items-center">
+                                <div class="col-md-10 col-lg-8 col-xl-7">
+                                    <h1 class="display-17 display-sm-11 display-md-9 display-lg-8 display-xl-3 display-xxl-2 mb-lg-3 text-white">Loss The Fat Eat Right, <span class="text-secondary">Be Right</span></h1>
+                                    <p class="lead opacity7 text-white mb-1-6 mb-md-2-2">We encourage you to fix and forestall illness with nourishment for carrying on with your life in a solid manner.</p>
+                                    <a href="contact/" class="butn-style01 secondary"><span>Get Started Now</span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="overflow-visible">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-5 mb-1-9 mb-lg-0">
+                        <div>
+                            <h2 class="display-20 display-sm-15 display-xl-9 mb-3">We advise you to prevent disease with nutrition</h2>
+                            <p class="text-secondary mb-1-9 lead title-font">At Diet Select, we are dedicated to transforming lives through the power of nutrition.</p>
+                            <p class="mb-1-9">As a team of registered dietitians and nutrition experts, our mission is to equip you with evidence-based knowledge and guidance to make informed dietary choices that promote health, prevent disease, and enhance your overall well-being.</p>
+                            <div class="row border-top border-bottom py-4 mb-1-9">
+                                <div class="col-sm-6 mb-3 mb-sm-0">
+                                    <div class="d-flex align-items-center">
+                                        <div class="flex-shrink-0">
+                                            <img src="./data/uploads/logos/page-logo.png" alt="...">
+                                        </div>
+                                        <div class="flex-grow-1 ms-3">
+                                            <h4 class="mb-0 h5">Personalized Nutrition Plan</h4>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="d-flex align-items-center">
+                                        <div class="flex-shrink-0">
+                                            <img src="./data/uploads/icons/icon-19.png" alt="...">
+                                        </div>
+                                        <div class="flex-grow-1 ms-3">
+                                            <h4 class="mb-0 h5">Personalized Exercises Plan</h4>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="d-flex align-items-center">
+                                <div class="flex-shrink-0">
+                                    <img src="./data/uploads/joy.webp" class="rounded w-60px" alt="...">
+                                    <i class="fas fa-phone-alt bg-secondary service-icon"></i>
+                                </div>
+                                <div class="flex-grow-1 ms-3">
+                                    <p class="text-secondary mb-1">We grow with love</p>
+                                    <h4 class="text-primary mb-0 title-font">Our experts give best health tips</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-7">
+                        <div class="ps-lg-1-9 position-relative">
+                            <img src="./data/uploads/diet-select-2.webp" class="border-radius-10" alt="...">
+                            <div class="about-03-video text-center">
+                                <h3 class="mb-3">watch video</h3>
+                                <div class="story-video">
+                                    <a class="video video_btn bg-secondary small" href="https://www.youtube.com/watch?v=wW5XaXFKlKM"><i class="fas fa-play"></i></a>
+                                </div>
+                            </div>
+                            <img src="./data/uploads/diet-select-4.webp" width="386px" class="position-absolute start-50 translate-middle-x border border-width-10 border-white bottom-n5 bottom-lg-n10 bottom-xl-n5 border-radius-10 d-none d-sm-inline-block" alt="...">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <img src="./data/uploads/content/animation7.png" class="position-absolute bottom-n5 z-index-9 left ani-top-bottom d-none d-md-block" alt="...">
+        </section>
+
+        <section>
+            <div class="bg-light section-bg"></div>
+            <div class="container position-relative z-index-9">
+                <div class="section-heading-02 text-center mb-1-9 mb-md-2-9">
+                    <div class="sub-title mb-3">
+                        <span class="text-secondary">Our Services</span>
+                        <div class="title-img">
+                            <img src="./data/uploads/logos/page-logo.png" alt="...">
+                        </div>
+                    </div>
+                    <h2 class="h1 fw-bolder mb-0">We Provide Best the Services</h2>
+                </div>
+                <div class="row mt-n1-9">
+                    <div class="col-md-6 col-xl-4 mt-1-9">
+                        <div class="service-style01">
+                            <img src="./data/uploads/diet-select-4.webp" class="border-radius-10" alt="...">
+                            <div class="services-content">
+                                <div class="d-flex align-items-center service-text">
+                                    <div class="flex-shrink-0">
+                                        <img src="./data/uploads/icons/icon-34.png" alt="...">
+                                    </div>
+                                    <div class="flex-grow-1 ms-3">
+                                        <h5 class="h5 mb-0"><a href="group-workshops/">Group Workshops</a></h5>
+                                    </div>
+                                </div>
+                                <p class="mb-0">Our nutrition team love the benefits of exercise and healthy food.</p>
+                                <a class="service-btn text-center" href="group-workshops/">More Details <i class="fas fa-arrow-right align-middle ms-2"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-xl-4 mt-1-9">
+                        <div class="service-style01">
+                            <img src="./data/uploads/persion.webp" class="border-radius-10" alt="...">
+                            <div class="services-content">
+                                <div class="d-flex align-items-center service-text">
+                                    <div class="flex-shrink-0">
+                                        <img src="./data/uploads/icons/icon-35.png" alt="...">
+                                    </div>
+                                    <div class="flex-grow-1 ms-3">
+                                        <h5 class="h5 mb-0"><a href="personalized-nutrition/">Personalized Nutrition</a></h5>
+                                    </div>
+                                </div>
+                                <p class="mb-0">Our nutrition team love the benefits of exercise and healthy food.</p>
+                                <a class="service-btn text-center" href="personalized-nutrition/">More Details <i class="fas fa-arrow-right align-middle ms-2"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-xl-4 mt-1-9">
+                        <div class="service-style01">
+                            <img src="./data/uploads/persion-2.webp" class="border-radius-10" alt="...">
+                            <div class="services-content">
+                                <div class="d-flex align-items-center service-text">
+                                    <div class="flex-shrink-0">
+                                        <img src="./data/uploads/icons/icon-36.png" alt="...">
+                                    </div>
+                                    <div class="flex-grow-1 ms-3">
+                                        <h5 class="h5 mb-0"><a href="fitness-performance/">Fitness Performance</a></h5>
+                                    </div>
+                                </div>
+                                <p class="mb-0">Our nutrition team love the benefits of exercise and healthy food.</p>
+                                <a class="service-btn text-center" href="fitness-performance/">More Details <i class="fas fa-arrow-right align-middle ms-2"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="pb-lg-0">
+            <div class="container z-index-3 position-relative">
+                <div class="row align-items-center why-us-03">
+                    <div class="col-lg-6 mb-1-9 mb-lg-0">
+                        <div class="pe-xxl-2-9">
+                            <img src="./data/uploads/diet-select-5.webp" class="main-img" alt="...">
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="ps-lg-1-9">
+                            <div class="section-heading-02 mb-1-9 mb-xl-2-9">
+                                <div class="sub-title mb-3">
+                                    <span class="text-secondary">Why Choose Us</span>
+                                    <div class="title-img">
+                                        <img src="./data/uploads/logos/page-logo.png" alt="...">
+                                    </div>
+                                </div>
+                                <h2 class="h1 fw-bolder mb-0">Why Choose Diet Select</h2>
+                            </div>
+                            <div class="accordion style1" id="accordion">
+                                <div class="card">
+                                    <h2 class="card-header" id="headingOne">
+                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Expertise</button>
+                                    </h2>
+                                    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordion">
+                                        <div class="card-body">
+                                            Our team comprises highly qualified dietitians with a deep understanding of nutrition science and its practical applications.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card">
+                                    <h2 class="card-header" id="headingTwo">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">Evidence-Based</button>
+                                    </h2>
+                                    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordion">
+                                        <div class="card-body">
+                                            We are committed to delivering recommendations and advice that are grounded in the latest scientific research and endorsed by trusted health authorities.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card">
+                                    <h2 class="card-header" id="headingThree">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">Personalized Approach</button>
+                                    </h2>
+                                    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordion">
+                                        <div class="card-body">
+                                            We understand that every individual's nutritional needs are unique. We provide tailored guidance to help you achieve your health goals.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card">
+                                    <h2 class="card-header" id="headingFour">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">Empowerment</button>
+                                    </h2>
+                                    <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordion">
+                                        <div class="card-body">
+                                            We empower you with the knowledge and skills to make informed dietary choices that can positively impact your life.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="container position-relative">
+                <div class="section-heading-02 text-center mb-1-9 mb-md-2-9">
+                    <div class="sub-title mb-3">
+                        <span class="text-secondary">Testimonial</span>
+                        <div class="title-img">
+                            <img src="./data/uploads/logos/page-logo.png" alt="...">
+                        </div>
+                    </div>
+                    <h2 class="h1 fw-bolder mb-0">Our Clients Love Us</h2>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-lg-7 text-center">
+                        <div class="testimonial-style2 owl-carousel owl-theme">
+                            <div class="testimonial-03">
+                                <img src="./data/uploads/avater1.webp" class="rounded-circle mb-4" alt="...">
+                                <p class="mb-1-9 display-28 display-lg-27 display-xl-26 display-xxl-25">"As an athlete, I needed a nutritionist who understood the demands of my training. Diet Select not only optimized my diet for peak performance but also educated me on fueling my body effectively. I've seen significant improvements in my endurance and recovery. Highly recommended!"</p>
+                                <h4 class="h5 text-secondary">Hope Roberts</h4>
+                                <span class="text-capitalize opacity8">Athlete </span>
+                            </div>
+                            <div class="testimonial-03">
+                                <img src="./data/uploads/avater2.webp" class="rounded-circle mb-4" alt="...">
+                                <p class="mb-1-9 display-28 display-lg-27 display-xl-26 display-xxl-25">"I approached diet select not just for weight loss but for a complete lifestyle transformation. Their holistic approach, including diet, exercise, and mindset, has been transformative. I've not only lost weight but gained a new perspective on health and wellness. Thank you for the journey!"</p>
+                                <h4 class="h5 text-secondary">Sapphire Aster</h4>
+                                <span class="text-capitalize opacity8">Nutritionist</span>
+                            </div>
+                            <div class="testimonial-03">
+                                <img src="./data/uploads/avater3.webp" class="rounded-circle mb-4" alt="...">
+                                <p class="mb-1-9 display-28 display-lg-27 display-xl-26 display-xxl-25">"Thrilled with the results from [Nutritionist Name]! Improved my sports performance with a targeted nutrition plan. Noticeable gains in endurance and recovery."</p>
+                                <h4 class="h5 text-secondary">Alesio Clement</h4>
+                                <span class="text-capitalize opacity8">Athlete</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <img src="./data/uploads/avater1.webp" class="position-absolute bottom-0 left-15 d-none d-lg-block rounded-circle w-40px" alt="...">
+                    <img src="./data/uploads/avater2.webp" class="position-absolute bottom-25 left d-none d-lg-block rounded-circle" alt="...">
+                    <img src="./data/uploads/avater3.webp" class="position-absolute left-10 top-10 d-none d-lg-block rounded-circle w-60px" alt="...">
+                    <img src="./data/uploads/avater1.webp" class="position-absolute top-40 right d-none d-lg-block rounded-circle" alt="...">
+                    <img src="./data/uploads/avater2.webp" class="position-absolute top-15 right-15 d-none d-lg-block rounded-circle w-40px" alt="...">
+                    <img src="./data/uploads/avater3.webp" class="position-absolute bottom right-10 d-none d-lg-block rounded-circle" alt="...">
+                </div> 
+            </div>
+        </section>
+
+        <section class="bg-light">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-5 col-xl-4 mb-1-9 mb-lg-0">
+                        <div>
+                            <div class="section-heading-02 mb-1-9 mb-lg-2-9">
+                                <div class="sub-title mb-3">
+                                    <span class="text-secondary">Contact Us</span>
+                                    <div class="title-img">
+                                        <img src="./data/uploads/logos/page-logo.png" alt="...">
+                                    </div>
+                                </div>
+                                <h2 class="h1 fw-bolder mb-0">Need a Nutritionist For Your Health? Please Contact Us</h2>
+                            </div>
+                            <div class="p-1-9 p-sm-2-9 bg-secondary contact-form border-radius-10">
+                                <div class="d-flex align-items-center mb-4">
+                                    <div class="flex-shrink-0">
+                                        <i class="fas fa-map-marker-alt contact-icon"></i>
+                                    </div>
+                                    <div class="flex-grow-1 ms-3 ms-sm-4">
+                                        <h3 class="h5 text-white">Loaction</h3>
+                                        <address class="text-white d-block mb-0">8th Flr, Fortis Suites, Hospital Rd, Upper Hill</address>
+                                    </div>
+                                </div>
+                                <div class="d-flex align-items-center mb-4">
+                                    <div class="flex-shrink-0">
+                                        <i class="fas fa-phone-alt contact-icon"></i>
+                                    </div>
+                                    <div class="flex-grow-1 ms-3 ms-sm-4">
+                                        <h3 class="h5 text-white">Phone Number</h3>
+                                        <span class="text-white">+254 737 226 850</span>
+                                    </div>
+                                </div>
+                                <div class="d-flex align-items-center">
+                                    <div class="flex-shrink-0">
+                                        <i class="far fa-envelope-open contact-icon"></i>
+                                    </div>
+                                    <div class="flex-grow-1 ms-3 ms-sm-4">
+                                        <h3 class="h5 text-white">Email Address</h3>
+                                        <span class="text-white d-block">info@dietselect.co.ke</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-7">
+                        <div class="bg-white shadow p-1-9 p-sm-2-9 ps-lg-7 border-radius-10">
+                            <form class="quform" action="quform/contact.php" method="post" enctype="multipart/form-data" onclick="">
+                                <div class="quform-elements">
+                                    <div class="row">
+
+                                        <!-- Begin Text input element -->
+                                        <div class="col-md-6">
+                                            <div class="quform-element form-group">
+                                                <label for="name">Your Name <span class="quform-required">*</span></label>
+                                                <div class="quform-input">
+                                                    <input class="form-control" id="name" type="text" name="name" placeholder="Your name here">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- End Text input element -->
+
+                                        <!-- Begin Text input element -->
+                                        <div class="col-md-6">
+                                            <div class="quform-element form-group">
+                                                <label for="email">Your Email <span class="quform-required">*</span></label>
+                                                <div class="quform-input">
+                                                    <input class="form-control" id="email" type="text" name="email" placeholder="Your email here">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- End Text input element -->
+
+                                        <!-- Begin Text input element -->
+                                        <div class="col-md-6">
+                                            <div class="quform-element form-group quform-select-replaced">
+                                                <label for="subject">Your Subject <span class="quform-required">*</span></label>
+                                                <div class="quform-input">
+                                                    <input class="form-control" id="subject" type="text" name="subject" placeholder="Your subject here">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- End Text input element -->
+
+                                        <!-- Begin Text input element -->
+                                        <div class="col-md-6">
+                                            <div class="quform-element form-group">
+                                                <label for="phone">Contact Number</label>
+                                                <div class="quform-input">
+                                                    <input class="form-control" id="phone" type="text" name="phone" placeholder="Your phone here">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- End Text input element -->
+
+                                        <!-- Begin Textarea element -->
+                                        <div class="col-md-12">
+                                            <div class="quform-element form-group">
+                                                <label for="message">Message <span class="quform-required">*</span></label>
+                                                <div class="quform-input">
+                                                    <textarea class="form-control" id="message" name="message" rows="3" placeholder="Tell us a few words"></textarea>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- End Textarea element -->
+
+                                    
+
+                                        <!-- Begin Submit button -->
+                                        <div class="col-md-12">
+                                            <div class="quform-submit-inner">
+                                                <button class="butn-style01 border-0" type="submit"><span>Send Message</span></button>
+                                            </div>
+                                            <div class="quform-loading-wrap text-start"><span class="quform-loading"></span></div>
+                                        </div>
+                                        <!-- End Submit button -->
+
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <img src="./data/uploads/content/animation8.png" class="position-absolute bottom-0 right-5 ani-left-right d-none d-md-block" alt="...">
+            <img src="./data/uploads/content/animation10.png" class="position-absolute top-30 left d-none d-md-block" alt="...">
+        </section>
+
+        <section class="overflow-visible">
+            <div class="container">
+                <div class="section-heading-02 text-center mb-1-9 mb-md-2-9">
+                    <div class="sub-title mb-3">
+                        <span class="text-secondary">Our Blog</span>
+                        <div class="title-img">
+                            <img src="./data/uploads/logos/page-logo.png" alt="...">
+                        </div>
+                    </div>
+                    <h2 class="h1 fw-bolder mb-0">Latest News & Updates</h2>
+                </div>
+                <div class="row g-xxl-5 mt-n1-9">
+                    <div class="col-md-6 col-lg-4 mt-1-9">
+                        <article class="card-style11">
+                            <div>
+                                <img src="https://placehold.co/551x632" class="border-radius-10" alt="...">
+                                <span class="date">Jan 25</span>
+                            </div>
+                            <div class="card-body">
+                                <h3 class="text-white h4 mb-3"><a href="blog/">How exercise can help you improve your health.</a></h3>
+                                <div>
+                                    <span class="d-inline-block text-white me-4"><i class="fas fa-comments me-2 text-primary align-middle"></i>10 Comment</span>
+                                    <span class="d-inline-block text-white text-capitalize"><i class="fas fa-user me-2 text-primary"></i><a href="#!">admin</a></span>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="col-md-6 col-lg-4 mt-1-9">
+                        <article class="card-style11">
+                            <div>
+                                <img src="https://placehold.co/551x632" class="border-radius-10" alt="...">
+                                <span class="date">Feb 22</span>
+                            </div>
+                            <div class="card-body">
+                                <h3 class="text-white h4 mb-3"><a href="blog/">The best time to drink water to boost energy.</a></h3>
+                                <div>
+                                    <span class="d-inline-block text-white me-4"><i class="fas fa-comments me-2 text-primary align-middle"></i>02 Comment</span>
+                                    <span class="d-inline-block text-white text-capitalize"><i class="fas fa-user me-2 text-primary"></i><a href="#!">admin</a></span>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="col-md-6 col-lg-4 mt-1-9">
+                        <article class="card-style11">
+                            <div>
+                                <img src="https://placehold.co/551x632" class="border-radius-10" alt="...">
+                                <span class="date">Jun 19</span>
+                            </div>
+                            <div class="card-body">
+                                <h3 class="text-white h4 mb-3"><a href="blog/">Facts about eating slowly that will blow your mind.</a></h3>
+                                <div>
+                                    <span class="d-inline-block text-white me-4"><i class="fas fa-comments me-2 text-primary align-middle"></i>04 Comment</span>
+                                    <span class="d-inline-block text-white text-capitalize"><i class="fas fa-user me-2 text-primary"></i><a href="#!">admin</a></span>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+            </div>
+            <img src="./data/uploads/content/animation9.png" class="position-absolute bottom-5 left ani-top-bottom d-none d-md-block" alt="...">
+        </section>
+
+]]></content><private/></item>

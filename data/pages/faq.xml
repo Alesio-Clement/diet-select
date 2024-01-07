@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Fri, 05 Jan 2024 17:14:43 +0100</pubDate><title><![CDATA[faq]]></title><url><![CDATA[faq]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[
+&lt;section class=&quot;page-title-section bg-img cover-background&quot; data-background=&quot;../data/uploads/faq.webp&quot; data-overlay-dark=&quot;6&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-md-12&quot;&gt;
+			&lt;h1&gt;FAQ&lt;/h1&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-12&quot;&gt;
+			&lt;div class=&quot;breadcrumb&quot;&gt;&lt;span class=&quot;left-dot&quot;&gt;&lt;/span&gt; &lt;span class=&quot;right-dot&quot;&gt;&lt;/span&gt;
+
+				&lt;ul&gt;
+					&lt;li&gt;&lt;a href=&quot;index.html&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#!&quot;&gt;FAQ&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;bg-transparent border-width-2 border-solid border-secondary p-3 d-sm-inline-block rounded-circle position-absolute bottom-10 left-5 ani-top-bottom d-none z-index-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div class=&quot;bg-secondary p-1-6 d-lg-block rounded-circle position-absolute top-25 right-25 ani-top-bottom d-none z-index-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div class=&quot;bg-white p-2 d-sm-inline-block rounded-circle position-absolute top-40 left-25 ani-left-right d-none z-index-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- FAQ
+        ================================================== --&gt;
+
+&lt;section&gt;
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;section-heading&quot;&gt;&lt;span class=&quot;text-secondary title-font display-25 display-md-23 d-block mb-1&quot;&gt;Faq&lt;/span&gt;
+
+		&lt;h2&gt;Frequently&lt;span class=&quot;fw-bolder&quot;&gt; asked questions&lt;/span&gt;&lt;/h2&gt;
+
+		&lt;p class=&quot;mb-0 w-md-80 w-lg-70 w-xl-50 mx-auto&quot;&gt;We connect buyers and sellers of natural, organic, environmentally sound products. We find the best suppliers and makers of natural and organic products.&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;row justify-content-center&quot;&gt;
+		&lt;div class=&quot;col-lg-10&quot;&gt;
+			&lt;div class=&quot;accordion&quot; id=&quot;accordion&quot;&gt;
+				&lt;div class=&quot;card&quot;&gt;
+					&lt;h2 class=&quot;card-header&quot; id=&quot;headingOne&quot;&gt;&lt;button aria-controls=&quot;collapseOne&quot; aria-expanded=&quot;true&quot; class=&quot;accordion-button&quot; data-bs-target=&quot;#collapseOne&quot; data-bs-toggle=&quot;collapse&quot; type=&quot;button&quot;&gt;How can I start nutrition diet ?&lt;/button&gt;&lt;/h2&gt;
+
+					&lt;div aria-labelledby=&quot;headingOne&quot; class=&quot;accordion-collapse collapse show&quot; data-bs-parent=&quot;#accordion&quot; id=&quot;collapseOne&quot;&gt;
+						&lt;div class=&quot;card-body&quot;&gt;If you are going to use a passage of Lorem Ipsum, you need to be sure there isn&#039;t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;card&quot;&gt;
+					&lt;h2 class=&quot;card-header&quot; id=&quot;headingTwo&quot;&gt;&lt;button aria-controls=&quot;collapseTwo&quot; aria-expanded=&quot;true&quot; class=&quot;accordion-button collapsed&quot; data-bs-target=&quot;#collapseTwo&quot; data-bs-toggle=&quot;collapse&quot; type=&quot;button&quot;&gt;What fees do you charge ?&lt;/button&gt;&lt;/h2&gt;
+
+					&lt;div aria-labelledby=&quot;headingTwo&quot; class=&quot;accordion-collapse collapse&quot; data-bs-parent=&quot;#accordion&quot; id=&quot;collapseTwo&quot;&gt;
+						&lt;div class=&quot;card-body&quot;&gt;There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&#039;t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn&#039;t anything.&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;card&quot;&gt;
+					&lt;h2 class=&quot;card-header&quot; id=&quot;headingThree&quot;&gt;&lt;button aria-controls=&quot;collapseThree&quot; aria-expanded=&quot;true&quot; class=&quot;accordion-button collapsed&quot; data-bs-target=&quot;#collapseThree&quot; data-bs-toggle=&quot;collapse&quot; type=&quot;button&quot;&gt;How does your weight loss program work ?&lt;/button&gt;&lt;/h2&gt;
+
+					&lt;div aria-labelledby=&quot;headingThree&quot; class=&quot;accordion-collapse collapse&quot; data-bs-parent=&quot;#accordion&quot; id=&quot;collapseThree&quot;&gt;
+						&lt;div class=&quot;card-body&quot;&gt;It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;card&quot;&gt;
+					&lt;h2 class=&quot;card-header&quot; id=&quot;headingFour&quot;&gt;&lt;button aria-controls=&quot;collapseFour&quot; aria-expanded=&quot;true&quot; class=&quot;accordion-button collapsed&quot; data-bs-target=&quot;#collapseFour&quot; data-bs-toggle=&quot;collapse&quot; type=&quot;button&quot;&gt;How long do i need to follow the advice ?&lt;/button&gt;&lt;/h2&gt;
+
+					&lt;div aria-labelledby=&quot;headingFour&quot; class=&quot;accordion-collapse collapse&quot; data-bs-parent=&quot;#accordion&quot; id=&quot;collapseFour&quot;&gt;
+						&lt;div class=&quot;card-body&quot;&gt;It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using &#039;Content here, content here&#039;, making it look like readable English.&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;card&quot;&gt;
+					&lt;h2 class=&quot;card-header&quot; id=&quot;headingFive&quot;&gt;&lt;button aria-controls=&quot;collapseFive&quot; aria-expanded=&quot;true&quot; class=&quot;accordion-button collapsed&quot; data-bs-target=&quot;#collapseFive&quot; data-bs-toggle=&quot;collapse&quot; type=&quot;button&quot;&gt;How long will it take to get my results ?&lt;/button&gt;&lt;/h2&gt;
+
+					&lt;div aria-labelledby=&quot;headingFive&quot; class=&quot;accordion-collapse collapse&quot; data-bs-parent=&quot;#accordion&quot; id=&quot;collapseFive&quot;&gt;
+						&lt;div class=&quot;card-body&quot;&gt;Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for &#039;lorem ipsum&#039; will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose.&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;card&quot;&gt;
+					&lt;h2 class=&quot;card-header&quot; id=&quot;headingSix&quot;&gt;&lt;button aria-controls=&quot;collapseSix&quot; aria-expanded=&quot;true&quot; class=&quot;accordion-button collapsed&quot; data-bs-target=&quot;#collapseSix&quot; data-bs-toggle=&quot;collapse&quot; type=&quot;button&quot;&gt;What is diet &amp;amp; nutrition health center ?&lt;/button&gt;&lt;/h2&gt;
+
+					&lt;div aria-labelledby=&quot;headingSix&quot; class=&quot;accordion-collapse collapse&quot; data-bs-parent=&quot;#accordion&quot; id=&quot;collapseSix&quot;&gt;
+						&lt;div class=&quot;card-body&quot;&gt;All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which.&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;bg-secondary p-2-2 rounded-circle position-absolute bottom-10 left-5 d-none d-lg-block&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div class=&quot;bg-primary p-3 rounded-circle position-absolute bottom-10 left-5 ani-top-bottom d-none d-lg-block&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/section&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author></item>

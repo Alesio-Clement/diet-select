@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sun, 07 Jan 2024 13:34:47 +0100</pubDate><title><![CDATA[fitness-performance]]></title><url><![CDATA[fitness-performance]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[
+&lt;section class=&quot;page-title-section bg-img cover-background&quot; data-background=&quot;../data/uploads/fitness.webp&quot; data-overlay-dark=&quot;6&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-md-12&quot;&gt;
+			&lt;h1&gt;Fitness &amp;amp; Performance&lt;/h1&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-12&quot;&gt;
+			&lt;div class=&quot;breadcrumb&quot;&gt;&lt;span class=&quot;left-dot&quot;&gt;&lt;/span&gt; &lt;span class=&quot;right-dot&quot;&gt;&lt;/span&gt;
+
+				&lt;ul&gt;
+					&lt;li&gt;&lt;a href=&quot;index.html&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#!&quot;&gt;Fitness &amp;amp; Performance&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;bg-transparent border-width-2 border-solid border-secondary p-3 d-sm-inline-block rounded-circle position-absolute bottom-10 left-5 ani-top-bottom d-none z-index-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div class=&quot;bg-secondary p-1-6 d-lg-block rounded-circle position-absolute top-25 right-25 ani-top-bottom d-none z-index-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div class=&quot;bg-white p-2 d-sm-inline-block rounded-circle position-absolute top-40 left-25 ani-left-right d-none z-index-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- FITNESS &amp; PERFORMANCE
+        ================================================== --&gt;
+
+&lt;section&gt;
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;row&quot;&gt;&lt;!-- service left --&gt;
+		&lt;div class=&quot;col-lg-4 order-2 order-lg-1&quot;&gt;
+			&lt;div class=&quot;service-details-sidebar pe-lg-1-6&quot;&gt;
+				&lt;aside class=&quot;widget widget-nav-menu&quot;&gt;
+				&lt;h4 class=&quot;widget-title title-font text-secondary&quot;&gt;Our Services&lt;/h4&gt;
+
+				&lt;div class=&quot;widget-body&quot;&gt;
+					&lt;ul class=&quot;list-style3&quot;&gt;
+						&lt;li&gt;&lt;a href=&quot;meal-plans/&quot;&gt;Meals Plans&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href=&quot;personalized-nutrition/&quot;&gt;Personalized Nutrition&lt;/a&gt;&lt;/li&gt;
+						&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;fitness-performance/&quot;&gt;Fitness &amp;amp; Performance&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href=&quot;workshops/&quot;&gt;WorkShop Events&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href=&quot;weight-loss-programs/&quot;&gt;Weight Loss Programs&lt;/a&gt;&lt;/li&gt;
+					&lt;/ul&gt;
+				&lt;/div&gt;
+				&lt;/aside&gt;
+
+				&lt;div class=&quot;widget-body&quot;&gt;
+					&lt;div class=&quot;d-flex align-items-center mb-4&quot;&gt;
+						&lt;div class=&quot;flex-shrink-0&quot;&gt;
+							&lt;div class=&quot;contact-icon&quot;&gt;&lt;i class=&quot;far fa-envelope&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+						&lt;/div&gt;
+
+						&lt;div class=&quot;flex-grow-1 ms-3&quot;&gt;
+							&lt;h6 class=&quot;mb-1&quot;&gt;Email Address&lt;/h6&gt;
+
+							&lt;p class=&quot;mb-0&quot;&gt;info@dietselect.co.ke&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;d-flex align-items-center mb-4&quot;&gt;
+						&lt;div class=&quot;flex-shrink-0&quot;&gt;
+							&lt;div class=&quot;contact-icon&quot;&gt;&lt;i class=&quot;fas fa-mobile-alt&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+						&lt;/div&gt;
+
+						&lt;div class=&quot;flex-grow-1 ms-3&quot;&gt;
+							&lt;h6 class=&quot;mb-1&quot;&gt;Phone Number&lt;/h6&gt;
+
+							&lt;p class=&quot;mb-0&quot;&gt;+254 737 226 850&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;d-flex align-items-center&quot;&gt;
+						&lt;div class=&quot;flex-shrink-0&quot;&gt;
+							&lt;div class=&quot;contact-icon&quot;&gt;&lt;i class=&quot;fas fa-map-marker-alt&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+						&lt;/div&gt;
+
+						&lt;div class=&quot;flex-grow-1 ms-3&quot;&gt;
+							&lt;h6 class=&quot;mb-1&quot;&gt;Location&lt;/h6&gt;
+
+							&lt;p class=&quot;mb-0&quot;&gt;8th Flr, Fortis Suites, Hospital Rd, Upper Hill.&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+				&lt;/aside&gt;
+
+				&lt;aside class=&quot;bg-secondary border-radius-10&quot;&gt;
+				&lt;div class=&quot;banner-wrapper&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;border-top-radius-10&quot; src=&quot;../data/uploads/persion.webp&quot; /&gt;
+					&lt;div class=&quot;p-2-2 position-relative border-bottom-radius-10 bg-secondary text-center&quot;&gt;
+						&lt;div class=&quot;icon-boxs bg-primary&quot;&gt;&lt;i class=&quot;ti-headphone-alt fs-1 text-white&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+
+						&lt;h4 class=&quot;mb-3 text-white&quot;&gt;How Can We Help?&lt;/h4&gt;
+
+						&lt;ul class=&quot;text-center list-unstyled mb-0&quot;&gt;
+							&lt;li class=&quot;text-white mb-2&quot;&gt;&lt;i class=&quot;fa fa-phone small text-white me-2&quot;&gt;&lt;/i&gt;&lt;a class=&quot;text-white&quot; href=&quot;#!&quot;&gt;+254 737 226 850&lt;/a&gt;&lt;/li&gt;
+							&lt;li class=&quot;text-white&quot;&gt;&lt;i class=&quot;fa fa-envelope-open small text-white me-2&quot;&gt;&lt;/i&gt;&lt;a class=&quot;text-white&quot; href=&quot;#!&quot;&gt;info@dietselect.co.ke&lt;/a&gt;&lt;/li&gt;
+						&lt;/ul&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+				&lt;/aside&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+		&lt;!-- end service left --&gt;&lt;!-- service right --&gt;
+
+		&lt;div class=&quot;col-lg-8 order-1 order-lg-2 mb-2-9 mb-lg-0&quot;&gt;
+			&lt;div&gt;&lt;img alt=&quot;...&quot; class=&quot;mb-2-2 border-radius-10&quot; src=&quot;../data/uploads/persion-2.webp&quot; /&gt;
+				&lt;div class=&quot;row mb-2-2&quot;&gt;
+					&lt;div class=&quot;col-lg-12&quot;&gt;
+						&lt;h3 class=&quot;h4 mb-3&quot;&gt;Fitness &amp;amp; Performance&lt;/h3&gt;
+
+						&lt;p class=&quot;w-95&quot;&gt;Fitness &amp;amp; performance sit amet consectetur adipisicing elit. Quas veritatis ducimus rerum sunt dignissimos libero et eum modi! Consequuntur rem incidunt et ducimus magnam sunt rerum hic beatae sed obcaecati. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laudantium asperiores eos obcaecati nostrum sed, corporis placeat quasi pariatur id, est iure, minus quibusdam! Facilis laudantium vero.&lt;/p&gt;
+
+						&lt;p class=&quot;w-95 mb-0&quot;&gt;Nullam dictum felis eu pede mollis pretium integer tincidunt cras dapibus. vivamus elementum semper nisi aenean vulputate eleifend tellus. aenean leo ligula porttitor eu consequat vitae eleifend ac enim. aliquam lorem ante dapibus in viverra quis feugiat a tellus pretium integer tincidunt cras dapibus. vivamus elementum semper nisi aenean vulputate eleifend tellus orttitor eu consequat vitae.&lt;/p&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;row mb-2-2&quot;&gt;
+					&lt;blockquote class=&quot;fitness-blockquote border-radius-10 text-center&quot;&gt;
+						&lt;p class=&quot;title-font&quot;&gt;Thanks for the great service. I didn&#039;t even need training. I love fitness. Fitness impressed me on multiple levels.&lt;/p&gt;
+						&lt;cite&gt;– Alesio Clement&lt;/cite&gt;&lt;/blockquote&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;row mb-2-2&quot;&gt;
+					&lt;div class=&quot;col-lg-12&quot;&gt;
+						&lt;h3 class=&quot;h4 mb-3&quot;&gt;Our Services Benefits&lt;/h3&gt;
+
+						&lt;p class=&quot;w-95 mb-1-6&quot;&gt;There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&#039;t look even slightly believable. If you are going to use a passage of Lorem Ipsum.&lt;/p&gt;
+
+						&lt;div class=&quot;row&quot;&gt;
+							&lt;div class=&quot;col-md-6 mb-1-9 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;mb-1-9 border-radius-10&quot; src=&quot;../data/uploads/content/fitness-performance-02.jpg&quot; /&gt;
+								&lt;h3 class=&quot;h4 mb-3&quot;&gt;Schedule Exercise&lt;/h3&gt;
+
+								&lt;ul class=&quot;list-style2 mb-0&quot;&gt;
+									&lt;li&gt;Nutritional assessment&lt;/li&gt;
+									&lt;li&gt;Meal planning and analysis&lt;/li&gt;
+									&lt;li&gt;Weight assessment&lt;/li&gt;
+								&lt;/ul&gt;
+							&lt;/div&gt;
+
+							&lt;div class=&quot;col-md-6&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;mb-1-9 border-radius-10&quot; src=&quot;../data/uploads/persion.webp&quot; /&gt;
+								&lt;h3 class=&quot;h4 mb-3&quot;&gt;Best Nutritionist&lt;/h3&gt;
+
+								&lt;ul class=&quot;list-style2 mb-0&quot;&gt;
+									&lt;li&gt;Client monitoring in real-time&lt;/li&gt;
+									&lt;li&gt;Physical activities&lt;/li&gt;
+									&lt;li&gt;Psychological help&lt;/li&gt;
+								&lt;/ul&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;row&quot;&gt;
+					&lt;div class=&quot;col-lg-12&quot;&gt;
+						&lt;h3 class=&quot;h4 mb-4&quot;&gt;Frequently Asked Questions&lt;/h3&gt;
+
+						&lt;div class=&quot;accordion&quot; id=&quot;accordion&quot;&gt;
+							&lt;div class=&quot;card&quot;&gt;
+								&lt;h2 class=&quot;card-header&quot; id=&quot;headingOne&quot;&gt;&lt;button aria-controls=&quot;collapseOne&quot; aria-expanded=&quot;true&quot; class=&quot;accordion-button&quot; data-bs-target=&quot;#collapseOne&quot; data-bs-toggle=&quot;collapse&quot; type=&quot;button&quot;&gt;How can I start nutrition diet ?&lt;/button&gt;&lt;/h2&gt;
+
+								&lt;div aria-labelledby=&quot;headingOne&quot; class=&quot;accordion-collapse collapse show&quot; data-bs-parent=&quot;#accordion&quot; id=&quot;collapseOne&quot;&gt;
+									&lt;div class=&quot;card-body&quot;&gt;If you are going to use a passage of Lorem Ipsum, you need to be sure there isn&#039;t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.&lt;/div&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+
+							&lt;div class=&quot;card&quot;&gt;
+								&lt;h2 class=&quot;card-header&quot; id=&quot;headingTwo&quot;&gt;&lt;button aria-controls=&quot;collapseTwo&quot; aria-expanded=&quot;true&quot; class=&quot;accordion-button collapsed&quot; data-bs-target=&quot;#collapseTwo&quot; data-bs-toggle=&quot;collapse&quot; type=&quot;button&quot;&gt;What fees do you charge ?&lt;/button&gt;&lt;/h2&gt;
+
+								&lt;div aria-labelledby=&quot;headingTwo&quot; class=&quot;accordion-collapse collapse&quot; data-bs-parent=&quot;#accordion&quot; id=&quot;collapseTwo&quot;&gt;
+									&lt;div class=&quot;card-body&quot;&gt;There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&#039;t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn&#039;t anything.&lt;/div&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+
+							&lt;div class=&quot;card&quot;&gt;
+								&lt;h2 class=&quot;card-header&quot; id=&quot;headingThree&quot;&gt;&lt;button aria-controls=&quot;collapseThree&quot; aria-expanded=&quot;true&quot; class=&quot;accordion-button collapsed&quot; data-bs-target=&quot;#collapseThree&quot; data-bs-toggle=&quot;collapse&quot; type=&quot;button&quot;&gt;How does your weight loss program work ?&lt;/button&gt;&lt;/h2&gt;
+
+								&lt;div aria-labelledby=&quot;headingThree&quot; class=&quot;accordion-collapse collapse&quot; data-bs-parent=&quot;#accordion&quot; id=&quot;collapseThree&quot;&gt;
+									&lt;div class=&quot;card-body&quot;&gt;It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.&lt;/div&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+		&lt;!-- end service right --&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author></item>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Fri, 05 Jan 2024 17:14:14 +0100</pubDate><title><![CDATA[blog]]></title><url><![CDATA[blog]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[blog]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[
+&lt;section class=&quot;page-title-section bg-img cover-background&quot; data-background=&quot;../data/uploads/blog.webp&quot; data-overlay-dark=&quot;6&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-md-12&quot;&gt;
+			&lt;h1&gt;Our Blog&amp;nbsp;&lt;/h1&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-12&quot;&gt;
+			&lt;div class=&quot;breadcrumb&quot;&gt;&lt;span class=&quot;left-dot&quot;&gt;&lt;/span&gt; &lt;span class=&quot;right-dot&quot;&gt;&lt;/span&gt;
+
+				&lt;ul&gt;
+					&lt;li&gt;&lt;a href=&quot;index.html&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#!&quot;&gt;Blog&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;bg-transparent border-width-2 border-solid border-secondary p-3 d-sm-inline-block rounded-circle position-absolute bottom-10 left-5 ani-top-bottom d-none z-index-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div class=&quot;bg-secondary p-1-6 d-lg-block rounded-circle position-absolute top-25 right-25 ani-top-bottom d-none z-index-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div class=&quot;bg-white p-2 d-sm-inline-block rounded-circle position-absolute top-40 left-25 ani-left-right d-none z-index-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- BLOG 
+        ================================================== --&gt;
+
+&lt;section&gt;
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;section-heading-02 text-center mb-1-9 mb-md-2-9&quot;&gt;
+		&lt;div class=&quot;sub-title mb-3&quot;&gt;&lt;span class=&quot;text-secondary&quot;&gt;Our Blog&lt;/span&gt;
+
+			&lt;div class=&quot;title-img&quot;&gt;&lt;img alt=&quot;...&quot; src=&quot;img/logos/page-logo.png&quot; /&gt;&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;h2 class=&quot;h1 fw-bolder mb-0&quot;&gt;Latest News &amp;amp; Updates&lt;/h2&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;row g-xxl-5 mt-n1-9&quot;&gt;
+		&lt;div class=&quot;col-md-6 col-lg-4 mt-1-9&quot;&gt;
+			&lt;article class=&quot;card-style11&quot;&gt;
+			&lt;div&gt;&lt;img alt=&quot;...&quot; class=&quot;border-radius-10&quot; src=&quot;https://placehold.co/551x632&quot; /&gt; &lt;span class=&quot;date&quot;&gt;Jan 25&lt;/span&gt;&lt;/div&gt;
+
+			&lt;div class=&quot;card-body&quot;&gt;
+				&lt;h3 class=&quot;text-white h4 mb-3&quot;&gt;&lt;a href=&quot;blog-details.html&quot;&gt;How exercise can help you improve your health.&lt;/a&gt;&lt;/h3&gt;
+
+				&lt;div&gt;&lt;span class=&quot;d-inline-block text-white me-4&quot;&gt;&lt;i class=&quot;fas fa-comments me-2 text-primary align-middle&quot;&gt;&lt;/i&gt;10 Comment&lt;/span&gt; &lt;span class=&quot;d-inline-block text-white text-capitalize&quot;&gt;&lt;i class=&quot;fas fa-user me-2 text-primary&quot;&gt;&lt;/i&gt;&lt;a href=&quot;#!&quot;&gt;admin&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;/article&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-6 col-lg-4 mt-1-9&quot;&gt;
+			&lt;article class=&quot;card-style11&quot;&gt;
+			&lt;div&gt;&lt;img alt=&quot;...&quot; class=&quot;border-radius-10&quot; src=&quot;https://placehold.co/551x632&quot; /&gt; &lt;span class=&quot;date&quot;&gt;Feb 22&lt;/span&gt;&lt;/div&gt;
+
+			&lt;div class=&quot;card-body&quot;&gt;
+				&lt;h3 class=&quot;text-white h4 mb-3&quot;&gt;&lt;a href=&quot;blog-details.html&quot;&gt;The best time to drink water to boost energy.&lt;/a&gt;&lt;/h3&gt;
+
+				&lt;div&gt;&lt;span class=&quot;d-inline-block text-white me-4&quot;&gt;&lt;i class=&quot;fas fa-comments me-2 text-primary align-middle&quot;&gt;&lt;/i&gt;02 Comment&lt;/span&gt; &lt;span class=&quot;d-inline-block text-white text-capitalize&quot;&gt;&lt;i class=&quot;fas fa-user me-2 text-primary&quot;&gt;&lt;/i&gt;&lt;a href=&quot;#!&quot;&gt;admin&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;/article&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-6 col-lg-4 mt-1-9&quot;&gt;
+			&lt;article class=&quot;card-style11&quot;&gt;
+			&lt;div&gt;&lt;img alt=&quot;...&quot; class=&quot;border-radius-10&quot; src=&quot;https://placehold.co/551x632&quot; /&gt; &lt;span class=&quot;date&quot;&gt;Jun 19&lt;/span&gt;&lt;/div&gt;
+
+			&lt;div class=&quot;card-body&quot;&gt;
+				&lt;h3 class=&quot;text-white h4 mb-3&quot;&gt;&lt;a href=&quot;blog-details.html&quot;&gt;Facts about eating slowly that will blow your mind.&lt;/a&gt;&lt;/h3&gt;
+
+				&lt;div&gt;&lt;span class=&quot;d-inline-block text-white me-4&quot;&gt;&lt;i class=&quot;fas fa-comments me-2 text-primary align-middle&quot;&gt;&lt;/i&gt;04 Comment&lt;/span&gt; &lt;span class=&quot;d-inline-block text-white text-capitalize&quot;&gt;&lt;i class=&quot;fas fa-user me-2 text-primary&quot;&gt;&lt;/i&gt;&lt;a href=&quot;#!&quot;&gt;admin&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;/article&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author></item>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sun, 07 Jan 2024 13:33:42 +0100</pubDate><title><![CDATA[personalized-nutrition]]></title><url><![CDATA[personalized-nutrition]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[
+&lt;section class=&quot;page-title-section bg-img cover-background&quot; data-background=&quot;../data/uploads/banner-1.webp&quot; data-overlay-dark=&quot;6&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-md-12&quot;&gt;
+			&lt;h1&gt;Personalized Nutrition&lt;/h1&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-12&quot;&gt;
+			&lt;div class=&quot;breadcrumb&quot;&gt;&lt;span class=&quot;left-dot&quot;&gt;&lt;/span&gt; &lt;span class=&quot;right-dot&quot;&gt;&lt;/span&gt;
+
+				&lt;ul&gt;
+					&lt;li&gt;&lt;a href=&quot;index.html&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#!&quot;&gt;Personalized Nutrition&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;bg-transparent border-width-2 border-solid border-secondary p-3 d-sm-inline-block rounded-circle position-absolute bottom-10 left-5 ani-top-bottom d-none z-index-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div class=&quot;bg-secondary p-1-6 d-lg-block rounded-circle position-absolute top-25 right-25 ani-top-bottom d-none z-index-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div class=&quot;bg-white p-2 d-sm-inline-block rounded-circle position-absolute top-40 left-25 ani-left-right d-none z-index-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;row&quot;&gt;&lt;!-- service left --&gt;
+		&lt;div class=&quot;col-lg-4 order-2 order-lg-1&quot;&gt;
+			&lt;div class=&quot;service-details-sidebar pe-lg-1-6&quot;&gt;
+				&lt;aside class=&quot;widget widget-nav-menu&quot;&gt;
+				&lt;h4 class=&quot;widget-title title-font text-secondary&quot;&gt;Our Services&lt;/h4&gt;
+
+				&lt;div class=&quot;widget-body&quot;&gt;
+					&lt;ul class=&quot;list-style3&quot;&gt;
+						&lt;li&gt;&lt;a href=&quot;meal-plans/&quot;&gt;Meals Plans&lt;/a&gt;&lt;/li&gt;
+						&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;personalized-nutrition/&quot;&gt;Personalized Nutrition&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href=&quot;fitness-performance/&quot;&gt;Fitness &amp;amp; Performance&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href=&quot;workshops/&quot;&gt;WorkShop Events&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href=&quot;weight-loss-programs/&quot;&gt;Weight Loss Programs&lt;/a&gt;&lt;/li&gt;
+					&lt;/ul&gt;
+				&lt;/div&gt;
+				&lt;/aside&gt;
+
+				&lt;div class=&quot;widget-body&quot;&gt;
+					&lt;div class=&quot;d-flex align-items-center mb-4&quot;&gt;
+						&lt;div class=&quot;flex-shrink-0&quot;&gt;
+							&lt;div class=&quot;contact-icon&quot;&gt;&lt;i class=&quot;far fa-envelope&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+						&lt;/div&gt;
+
+						&lt;div class=&quot;flex-grow-1 ms-3&quot;&gt;
+							&lt;h6 class=&quot;mb-1&quot;&gt;Email Address&lt;/h6&gt;
+
+							&lt;p class=&quot;mb-0&quot;&gt;info@dietselect.co.ke&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;d-flex align-items-center mb-4&quot;&gt;
+						&lt;div class=&quot;flex-shrink-0&quot;&gt;
+							&lt;div class=&quot;contact-icon&quot;&gt;&lt;i class=&quot;fas fa-mobile-alt&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+						&lt;/div&gt;
+
+						&lt;div class=&quot;flex-grow-1 ms-3&quot;&gt;
+							&lt;h6 class=&quot;mb-1&quot;&gt;Phone Number&lt;/h6&gt;
+
+							&lt;p class=&quot;mb-0&quot;&gt;+254 737 226 850&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;d-flex align-items-center&quot;&gt;
+						&lt;div class=&quot;flex-shrink-0&quot;&gt;
+							&lt;div class=&quot;contact-icon&quot;&gt;&lt;i class=&quot;fas fa-map-marker-alt&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+						&lt;/div&gt;
+
+						&lt;div class=&quot;flex-grow-1 ms-3&quot;&gt;
+							&lt;h6 class=&quot;mb-1&quot;&gt;Location&lt;/h6&gt;
+
+							&lt;p class=&quot;mb-0&quot;&gt;8th Flr, Fortis Suites, Hospital Rd, Upper Hill.&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+				&lt;/aside&gt;
+
+				&lt;aside class=&quot;bg-secondary border-radius-10&quot;&gt;
+				&lt;div class=&quot;banner-wrapper&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;border-top-radius-10&quot; src=&quot;../data/uploads/persion.webp&quot; /&gt;
+					&lt;div class=&quot;p-2-2 position-relative border-bottom-radius-10 bg-secondary text-center&quot;&gt;
+						&lt;div class=&quot;icon-boxs bg-primary&quot;&gt;&lt;i class=&quot;ti-headphone-alt fs-1 text-white&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+
+						&lt;h4 class=&quot;mb-3 text-white&quot;&gt;How Can We Help?&lt;/h4&gt;
+
+						&lt;ul class=&quot;text-center list-unstyled mb-0&quot;&gt;
+							&lt;li class=&quot;text-white mb-2&quot;&gt;&lt;i class=&quot;fa fa-phone small text-white me-2&quot;&gt;&lt;/i&gt;&lt;a class=&quot;text-white&quot; href=&quot;#!&quot;&gt;+254 737 226 850&lt;/a&gt;&lt;/li&gt;
+							&lt;li class=&quot;text-white&quot;&gt;&lt;i class=&quot;fa fa-envelope-open small text-white me-2&quot;&gt;&lt;/i&gt;&lt;a class=&quot;text-white&quot; href=&quot;#!&quot;&gt;info@dietselect.co.ke&lt;/a&gt;&lt;/li&gt;
+						&lt;/ul&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+				&lt;/aside&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+		&lt;!-- end service left --&gt;&lt;!-- service right --&gt;
+
+		&lt;div class=&quot;col-lg-8 order-1 order-lg-2 mb-2-9 mb-lg-0&quot;&gt;
+			&lt;div&gt;&lt;img alt=&quot;...&quot; class=&quot;mb-2-6 border-radius-10&quot; src=&quot;../data/uploads/content/carousel-01.jpg&quot; /&gt;
+				&lt;div class=&quot;row mb-1-9&quot;&gt;
+					&lt;div class=&quot;col-lg-12&quot;&gt;
+						&lt;h3 class=&quot;h4 mb-3&quot;&gt;Personalized Nutrition&lt;/h3&gt;
+
+						&lt;p class=&quot;w-95 mb-0&quot;&gt;Personalized nutrition is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’.&lt;/p&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;row mb-2-2&quot;&gt;
+					&lt;div class=&quot;col-6 col-md-4&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;border-radius-10&quot; src=&quot;../data/uploads/content/personalized-nutrition-04.jpg&quot; /&gt;&lt;/div&gt;
+
+					&lt;div class=&quot;col-6 col-md-4&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;border-radius-10&quot; src=&quot;../data/uploads/content/personalized-nutrition-03.jpg&quot; /&gt;&lt;/div&gt;
+
+					&lt;div class=&quot;col-md-4 d-none d-md-block&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;border-radius-10&quot; src=&quot;../data/uploads/content/personalized-nutrition-04.jpg&quot; /&gt;&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;row mb-2-2&quot;&gt;
+					&lt;div class=&quot;col-lg-12&quot;&gt;
+						&lt;h3 class=&quot;mb-3&quot;&gt;Why Is It Best?&lt;/h3&gt;
+
+						&lt;p class=&quot;w-95 mb-1-9&quot;&gt;All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.&lt;/p&gt;
+
+						&lt;div class=&quot;row mt-n1-9&quot;&gt;
+							&lt;div class=&quot;col-md-6 mt-1-9&quot;&gt;
+								&lt;div class=&quot;d-flex&quot;&gt;
+									&lt;div class=&quot;flex-shrink-0&quot;&gt;
+										&lt;div class=&quot;about-icon&quot;&gt;&lt;img alt=&quot;...&quot; src=&quot;../data/uploads/icons/icon-19.png&quot; /&gt;&lt;/div&gt;
+									&lt;/div&gt;
+
+									&lt;div class=&quot;flex-grow-1 ms-3&quot;&gt;
+										&lt;h4 class=&quot;h5&quot;&gt;Heart Healthy&lt;/h4&gt;
+
+										&lt;p class=&quot;mb-0&quot;&gt;Our nutrition team love the benefits of exercise and healthy food.&lt;/p&gt;
+									&lt;/div&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+
+							&lt;div class=&quot;col-md-6 mt-1-9&quot;&gt;
+								&lt;div class=&quot;d-flex&quot;&gt;
+									&lt;div class=&quot;flex-shrink-0&quot;&gt;
+										&lt;div class=&quot;about-icon&quot;&gt;&lt;img alt=&quot;...&quot; src=&quot;../data/uploads/icons/icon-20.png&quot; /&gt;&lt;/div&gt;
+									&lt;/div&gt;
+
+									&lt;div class=&quot;flex-grow-1 ms-3&quot;&gt;
+										&lt;h4 class=&quot;h5&quot;&gt;Diabetic&lt;/h4&gt;
+
+										&lt;p class=&quot;mb-0&quot;&gt;Our nutrition team love the benefits of exercise and healthy food.&lt;/p&gt;
+									&lt;/div&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+
+							&lt;div class=&quot;col-md-6 mt-1-9&quot;&gt;
+								&lt;div class=&quot;d-flex&quot;&gt;
+									&lt;div class=&quot;flex-shrink-0&quot;&gt;
+										&lt;div class=&quot;about-icon&quot;&gt;&lt;img alt=&quot;...&quot; src=&quot;../data/uploads/icons/icon-21.png&quot; /&gt;&lt;/div&gt;
+									&lt;/div&gt;
+
+									&lt;div class=&quot;flex-grow-1 ms-3&quot;&gt;
+										&lt;h4 class=&quot;h5&quot;&gt;Low Carb&lt;/h4&gt;
+
+										&lt;p class=&quot;mb-0&quot;&gt;Our nutrition team love the benefits of exercise and healthy food.&lt;/p&gt;
+									&lt;/div&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+
+							&lt;div class=&quot;col-md-6 mt-1-9&quot;&gt;
+								&lt;div class=&quot;d-flex&quot;&gt;
+									&lt;div class=&quot;flex-shrink-0&quot;&gt;
+										&lt;div class=&quot;about-icon&quot;&gt;&lt;img alt=&quot;...&quot; src=&quot;../data/uploads/icons/icon-22.png&quot; /&gt;&lt;/div&gt;
+									&lt;/div&gt;
+
+									&lt;div class=&quot;flex-grow-1 ms-3&quot;&gt;
+										&lt;h4 class=&quot;h5&quot;&gt;Low Sodium&lt;/h4&gt;
+
+										&lt;p class=&quot;mb-0&quot;&gt;Our nutrition team love the benefits of exercise and healthy food.&lt;/p&gt;
+									&lt;/div&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+
+				
+			&lt;/div&gt;
+		&lt;/div&gt;
+		&lt;!-- end service right --&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author></item>

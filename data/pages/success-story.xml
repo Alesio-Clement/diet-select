@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sun, 07 Jan 2024 13:39:34 +0100</pubDate><title><![CDATA[success-story]]></title><url><![CDATA[success-story]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[success-story]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[
+&lt;section class=&quot;page-title-section bg-img cover-background&quot; data-background=&quot;../data/uploads/about-us.webp&quot; data-overlay-dark=&quot;6&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-md-12&quot;&gt;
+			&lt;h1&gt;Success Story&lt;/h1&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-12&quot;&gt;
+			&lt;div class=&quot;breadcrumb&quot;&gt;&lt;span class=&quot;left-dot&quot;&gt;&lt;/span&gt; &lt;span class=&quot;right-dot&quot;&gt;&lt;/span&gt;
+
+				&lt;ul&gt;
+					&lt;li&gt;&lt;a href=&quot;index.html&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#!&quot;&gt;Success Story&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;bg-transparent border-width-2 border-solid border-secondary p-3 d-sm-inline-block rounded-circle position-absolute bottom-10 left-5 ani-top-bottom d-none z-index-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div class=&quot;bg-secondary p-1-6 d-lg-block rounded-circle position-absolute top-25 right-25 ani-top-bottom d-none z-index-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div class=&quot;bg-white p-2 d-sm-inline-block rounded-circle position-absolute top-40 left-25 ani-left-right d-none z-index-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+            &lt;div class=&quot;container&quot;&gt;
+                &lt;div class=&quot;section-heading&quot;&gt;
+                    &lt;span class=&quot;text-secondary title-font display-25 display-md-23 d-block mb-1&quot;&gt;Change your life&lt;/span&gt;
+                    &lt;h2&gt;All our&lt;span class=&quot;fw-bolder&quot;&gt; success stories&lt;/span&gt;&lt;/h2&gt;
+                    &lt;p class=&quot;mb-0 w-md-80 w-lg-70 w-xl-50 mx-auto&quot;&gt;We connect buyers and sellers of natural, organic, environmentally sound products. We find the best suppliers and makers of natural and organic products.&lt;/p&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;row justify-content-center g-0 mb-2-9&quot;&gt;
+                    &lt;div class=&quot;col-md-5 col-xl-4 bg-img cover-background min-height-350 border-start-md-radius-10 border-top-sm-radius-10&quot; data-background=&quot;img/content/success-story-01.jpg&quot;&gt;&lt;/div&gt;
+                    &lt;div class=&quot;col-md-7 col-xl-6&quot;&gt;
+                        &lt;div class=&quot;success-content border-end-md-radius-10 border-bottom-sm-radius-10&quot;&gt;
+                            &lt;h4 class=&quot;text-center text-primary mb-4 title-font&quot;&gt;&quot; Great job, health is the coolest, most happening thing around! &quot;&lt;/h4&gt;
+                            &lt;p&gt;Thanks for the great service. I am really satisfied with my health. Health is the most valuable business resource we have EVER purchased. We have no regrets!&lt;/p&gt;
+                            &lt;div class=&quot;author&quot;&gt;
+                                &lt;h4 class=&quot;display-27 font-weight-800 mb-1&quot;&gt;Alesio Clement&lt;/h4&gt;
+                                &lt;span class=&quot;display-31 display-sm-30 font-weight-600 text-muted&quot;&gt;Health Coach&lt;/span&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;row justify-content-center flex-row-reverse g-0 mb-2-9&quot;&gt;
+                    &lt;div class=&quot;col-md-5 col-xl-4 bg-img cover-background min-height-350 border-end-md-radius-10 border-top-sm-radius-10&quot; data-background=&quot;img/content/success-story-02.jpg&quot;&gt;&lt;/div&gt;
+                    &lt;div class=&quot;col-md-7 col-xl-6&quot;&gt;
+                        &lt;div class=&quot;success-content border-start-md-radius-10 border-top-sm-radius-10&quot;&gt;
+                            &lt;h4 class=&quot;text-center text-primary mb-4 title-font&quot;&gt;&quot; Wow what great service, I love it! Best. Product. Ever! The very best. &quot;&lt;/h4&gt;
+                            &lt;p&gt;No matter where you go, health is the coolest, most happening thing around! I made back the purchase price in just 48 hours! I would like to personally thank you for your outstanding product.&lt;/p&gt;
+                            &lt;div class=&quot;author&quot;&gt;
+                                &lt;h4 class=&quot;display-27 font-weight-800 mb-1&quot;&gt;Beverly Mumbo&lt;/h4&gt;
+                                &lt;span class=&quot;display-31 display-sm-30 font-weight-600 text-muted&quot;&gt;Nutritionist&lt;/span&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;row justify-content-center g-0 mb-2-9&quot;&gt;
+                    &lt;div class=&quot;col-md-5 col-xl-4 bg-img cover-background min-height-350 border-start-md-radius-10 border-top-sm-radius-10&quot; data-background=&quot;img/content/success-story-03.jpg&quot;&gt;&lt;/div&gt;
+                    &lt;div class=&quot;col-md-7 col-xl-6&quot;&gt;
+                        &lt;div class=&quot;success-content border-end-md-radius-10 border-bottom-sm-radius-10&quot;&gt;
+                            &lt;h4 class=&quot;text-center text-primary mb-4 title-font&quot;&gt;&quot; It really saves me time and effort. I am completely blown away. &quot;&lt;/h4&gt;
+                            &lt;p&gt;Your company is truly upstanding and is behind its product 100%. If you want real marketing that works and effective implementation - Nutrition&#039;s got you covered.&lt;/p&gt;
+                            &lt;div class=&quot;author&quot;&gt;
+                                &lt;h4 class=&quot;display-27 font-weight-800 mb-1&quot;&gt;John Doe&lt;/h4&gt;
+                                &lt;span class=&quot;display-31 display-sm-30 font-weight-600 text-muted&quot;&gt;Health Coach&lt;/span&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;row justify-content-center flex-row-reverse g-0&quot;&gt;
+                    &lt;div class=&quot;col-md-5 col-xl-4 bg-img cover-background min-height-350 border-end-md-radius-10 border-top-sm-radius-10&quot; data-background=&quot;img/content/success-story-04.jpg&quot;&gt;&lt;/div&gt;
+                    &lt;div class=&quot;col-md-7 col-xl-6&quot;&gt;
+                        &lt;div class=&quot;success-content border-start-md-radius-10 border-top-sm-radius-10&quot;&gt;
+                            &lt;h4 class=&quot;text-center text-primary mb-4 title-font&quot;&gt;&quot; Diet was worth a fortune to my company. Diet saved my business. &quot;&lt;/h4&gt;
+                            &lt;p&gt;I would like to personally thank you for your outstanding product. Thank you for making it painless, pleasant and most of all hassle free! Definitely worth the investment. Best. Product. Ever!&lt;/p&gt;
+                            &lt;div class=&quot;author&quot;&gt;
+                                &lt;h4 class=&quot;display-27 font-weight-800 mb-1&quot;&gt;Jane Doe&lt;/h4&gt;
+                                &lt;span class=&quot;display-31 display-sm-30 font-weight-600 text-muted&quot;&gt;Nutritionist&lt;/span&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/section&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author></item>

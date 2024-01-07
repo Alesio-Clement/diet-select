@@ -1,0 +1,1413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sun, 07 Jan 2024 13:31:25 +0100</pubDate><title><![CDATA[meal-plans]]></title><url><![CDATA[meal-plans]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[
+&lt;section class=&quot;page-title-section bg-img cover-background&quot; data-background=&quot;../data/uploads/banner-1.webp&quot; data-overlay-dark=&quot;6&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-md-12&quot;&gt;
+			&lt;h1&gt;Meal Plans&lt;/h1&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-12&quot;&gt;
+			&lt;div class=&quot;breadcrumb&quot;&gt;&lt;span class=&quot;left-dot&quot;&gt;&lt;/span&gt; &lt;span class=&quot;right-dot&quot;&gt;&lt;/span&gt;
+
+				&lt;ul&gt;
+					&lt;li&gt;&lt;a href=&quot;index.html&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#!&quot;&gt;Meal Plans&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;bg-transparent border-width-2 border-solid border-secondary p-3 d-sm-inline-block rounded-circle position-absolute bottom-10 left-5 ani-top-bottom d-none z-index-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div class=&quot;bg-secondary p-1-6 d-lg-block rounded-circle position-absolute top-25 right-25 ani-top-bottom d-none z-index-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div class=&quot;bg-white p-2 d-sm-inline-block rounded-circle position-absolute top-40 left-25 ani-left-right d-none z-index-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- MEAL PLANS INFO
+        ================================================== --&gt;
+
+&lt;section&gt;
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;row align-items-xl-center&quot;&gt;
+		&lt;div class=&quot;col-lg-6 mb-2-5 mb-lg-0&quot;&gt;
+			&lt;div class=&quot;position-relative me-1-9 text-center text-lg-start&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;border-radius-10&quot; src=&quot;../data/uploads/banner-3.webp&quot; /&gt;
+				&lt;h4 class=&quot;about-box border-radius-10&quot;&gt;Loss The Fat Eat Right Be Bright&lt;/h4&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-6&quot;&gt;
+			&lt;div class=&quot;ps-lg-2-5 ps-xl-6&quot;&gt;
+				&lt;h2 class=&quot;h1 mb-1-6 font-weight-400&quot;&gt;Nutrition &lt;span class=&quot;fw-bolder&quot;&gt;meal plans&lt;/span&gt; for healthy life&lt;/h2&gt;
+
+				&lt;p class=&quot;mb-1-6 lead&quot;&gt;We connect buyers and sellers of natural, organic, environmentally sound products. We find the best suppliers and makers of natural and organic products.&lt;/p&gt;
+
+				&lt;ul class=&quot;list-style1 mb-0&quot;&gt;
+					&lt;li&gt;&lt;i class=&quot;ti-check-box text-secondary me-3 font-weight-500&quot;&gt;&lt;/i&gt;A natural way of improving your health.&lt;/li&gt;
+					&lt;li&gt;&lt;i class=&quot;ti-check-box text-secondary me-3 font-weight-500&quot;&gt;&lt;/i&gt;A Whole New Way to Take Your Vitamins.&lt;/li&gt;
+					&lt;li&gt;&lt;i class=&quot;ti-check-box text-secondary me-3 font-weight-500&quot;&gt;&lt;/i&gt;Healthy Desserts Shockingly High in Protein.&lt;/li&gt;
+				&lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- EXTRA
+        ================================================== --&gt;
+
+&lt;section class=&quot;bg-img cover-background&quot; data-background=&quot;img/bg/bg-04.jpg&quot; data-overlay-dark=&quot;0&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-lg-6&quot;&gt;
+			&lt;div class=&quot;section-heading text-start &quot;&gt;&lt;span class=&quot;text-secondary title-font display-25 display-md-23 d-block mb-1&quot;&gt;Healty Food, For Breakfast.&lt;/span&gt;
+
+				&lt;h2 class=&quot;h1 mb-4 font-weight-400&quot;&gt;Our Nutrition &amp;amp; Healthy&lt;span class=&quot;fw-bolder&quot;&gt; Meal Plans Programs&lt;/span&gt;&lt;/h2&gt;
+
+				&lt;p class=&quot;display-sm-28&quot;&gt;We connect buyers and sellers of natural, organic, environmentally sound products. We find the best suppliers and makers of natural and organic products.&lt;/p&gt;
+			&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- MEAL PLANS
+        ================================================== --&gt;
+
+&lt;section&gt;
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-lg-12&quot;&gt;
+			&lt;div class=&quot;verticaltab tab-style-3&quot;&gt;
+				&lt;ul class=&quot;resp-tabs-list hor_1&quot;&gt;
+					&lt;li&gt;
+						&lt;h4 class=&quot;h5 mb-0&quot;&gt;Monday&lt;/h4&gt;
+					&lt;/li&gt;
+					&lt;li&gt;
+						&lt;h4 class=&quot;h5 mb-0&quot;&gt;Tuesday&lt;/h4&gt;
+					&lt;/li&gt;
+					&lt;li&gt;
+						&lt;h4 class=&quot;h5 mb-0&quot;&gt;Wednesday&lt;/h4&gt;
+					&lt;/li&gt;
+					&lt;li&gt;
+						&lt;h4 class=&quot;h5 mb-0&quot;&gt;Thursday&lt;/h4&gt;
+					&lt;/li&gt;
+					&lt;li&gt;
+						&lt;h4 class=&quot;h5 mb-0&quot;&gt;Friday&lt;/h4&gt;
+					&lt;/li&gt;
+					&lt;li&gt;
+						&lt;h4 class=&quot;h5 mb-0&quot;&gt;Saturaday&lt;/h4&gt;
+					&lt;/li&gt;
+				&lt;/ul&gt;
+
+				&lt;div class=&quot;resp-tabs-container hor_1&quot;&gt;
+					&lt;div&gt;
+						&lt;div class=&quot;row mt-n2-6 g-lg-5&quot;&gt;
+							&lt;div class=&quot;col-lg-6 mt-2-6&quot;&gt;
+								&lt;div class=&quot;card border-0 border-radius-none&quot;&gt;
+									&lt;div class=&quot;card-body p-0&quot;&gt;
+										&lt;div class=&quot;border-bottom border-width-2 pb-3 mb-4&quot;&gt;
+											&lt;h4 class=&quot;mb-0&quot;&gt;Breakfast&lt;/h4&gt;
+										&lt;/div&gt;
+
+										&lt;ul class=&quot;list-style5 text-center text-sm-start&quot;&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-01.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Mushroom bucatini&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div class=&quot;mb-3&quot;&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;1020 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;120 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;56 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;27 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-02.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Greek green salad&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;1000 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;110 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;39 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;05 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+										&lt;/ul&gt;
+									&lt;/div&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+
+							&lt;div class=&quot;col-lg-6 mt-2-6&quot;&gt;
+								&lt;div class=&quot;card border-0 border-radius-none&quot;&gt;
+									&lt;div class=&quot;card-body p-0&quot;&gt;
+										&lt;div class=&quot;border-bottom border-width-2 pb-3 mb-4&quot;&gt;
+											&lt;h4 class=&quot;mb-0&quot;&gt;Lunch&lt;/h4&gt;
+										&lt;/div&gt;
+
+										&lt;ul class=&quot;list-style5 text-center text-sm-start&quot;&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-03.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Mix Fruits Honey&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div class=&quot;mb-3&quot;&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;1010 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;80 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;90 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;10 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-04.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Greek salad&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;900 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;100 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;52 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;02 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+										&lt;/ul&gt;
+									&lt;/div&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+
+							&lt;div class=&quot;col-lg-6 mt-2-6&quot;&gt;
+								&lt;div class=&quot;card border-0 border-radius-none&quot;&gt;
+									&lt;div class=&quot;card-body p-0&quot;&gt;
+										&lt;div class=&quot;border-bottom border-width-2 pb-3 mb-4&quot;&gt;
+											&lt;h4 class=&quot;mb-0&quot;&gt;Snakes&lt;/h4&gt;
+										&lt;/div&gt;
+
+										&lt;ul class=&quot;list-style5 text-center text-sm-start&quot;&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-05.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Lemon corns&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div class=&quot;mb-3&quot;&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;1030 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;70 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;30 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;01 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-06.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Makhana&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;1011 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;47 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;43 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;10 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+										&lt;/ul&gt;
+									&lt;/div&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+
+							&lt;div class=&quot;col-lg-6 mt-2-6&quot;&gt;
+								&lt;div class=&quot;card border-0 border-radius-none&quot;&gt;
+									&lt;div class=&quot;card-body p-0&quot;&gt;
+										&lt;div class=&quot;border-bottom border-width-2 pb-3 mb-4&quot;&gt;
+											&lt;h4 class=&quot;mb-0&quot;&gt;Dinner&lt;/h4&gt;
+										&lt;/div&gt;
+
+										&lt;ul class=&quot;list-style5 text-center text-sm-start&quot;&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-07.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Mix vegetable salad&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div class=&quot;mb-3&quot;&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;1000 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;50 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;26 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;03 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-08.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Mexican salad&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;1030 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;80 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;51 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;06 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+										&lt;/ul&gt;
+									&lt;/div&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;div&gt;
+						&lt;div class=&quot;row mt-n2-6 g-lg-5&quot;&gt;
+							&lt;div class=&quot;col-lg-6 mt-2-6&quot;&gt;
+								&lt;div class=&quot;card border-0 border-radius-none&quot;&gt;
+									&lt;div class=&quot;card-body p-0&quot;&gt;
+										&lt;div class=&quot;border-bottom border-width-2 pb-3 mb-4&quot;&gt;
+											&lt;h4 class=&quot;mb-0&quot;&gt;Lunch&lt;/h4&gt;
+										&lt;/div&gt;
+
+										&lt;ul class=&quot;list-style5 text-center text-sm-start&quot;&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-03.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Mix Fruits Honey&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div class=&quot;mb-3&quot;&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;1010 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;80 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;90 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;10 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-04.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Greek salad&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;900 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;100 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;52 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;02 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+										&lt;/ul&gt;
+									&lt;/div&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+
+							&lt;div class=&quot;col-lg-6 mt-2-6&quot;&gt;
+								&lt;div class=&quot;card border-0 border-radius-none&quot;&gt;
+									&lt;div class=&quot;card-body p-0&quot;&gt;
+										&lt;div class=&quot;border-bottom border-width-2 pb-3 mb-4&quot;&gt;
+											&lt;h4 class=&quot;mb-0&quot;&gt;Snakes&lt;/h4&gt;
+										&lt;/div&gt;
+
+										&lt;ul class=&quot;list-style5 text-center text-sm-start&quot;&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-05.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Lemon corns&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div class=&quot;mb-3&quot;&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;1030 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;70 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;30 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;01 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-06.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Makhana&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;1011 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;47 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;43 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;10 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+										&lt;/ul&gt;
+									&lt;/div&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+
+							&lt;div class=&quot;col-lg-6 mt-2-6&quot;&gt;
+								&lt;div class=&quot;card border-0 border-radius-none&quot;&gt;
+									&lt;div class=&quot;card-body p-0&quot;&gt;
+										&lt;div class=&quot;border-bottom border-width-2 pb-3 mb-4&quot;&gt;
+											&lt;h4 class=&quot;mb-0&quot;&gt;Dinner&lt;/h4&gt;
+										&lt;/div&gt;
+
+										&lt;ul class=&quot;list-style5 text-center text-sm-start&quot;&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-07.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Mix vegetable salad&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div class=&quot;mb-3&quot;&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;1000 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;50 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;26 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;03 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-08.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Mexican salad&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;1030 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;80 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;51 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;06 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+										&lt;/ul&gt;
+									&lt;/div&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;div&gt;
+						&lt;div class=&quot;row mt-n2-6 g-lg-5&quot;&gt;
+							&lt;div class=&quot;col-lg-6 mt-2-6&quot;&gt;
+								&lt;div class=&quot;card border-0 border-radius-none&quot;&gt;
+									&lt;div class=&quot;card-body p-0&quot;&gt;
+										&lt;div class=&quot;border-bottom border-width-2 pb-3 mb-4&quot;&gt;
+											&lt;h4 class=&quot;mb-0&quot;&gt;Lunch&lt;/h4&gt;
+										&lt;/div&gt;
+
+										&lt;ul class=&quot;list-style5 text-center text-sm-start&quot;&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-03.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Mix Fruits Honey&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div class=&quot;mb-3&quot;&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;1010 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;80 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;90 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;10 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-04.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Greek salad&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;900 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;100 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;52 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;02 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+										&lt;/ul&gt;
+									&lt;/div&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+
+							&lt;div class=&quot;col-lg-6 mt-2-6&quot;&gt;
+								&lt;div class=&quot;card border-0 border-radius-none&quot;&gt;
+									&lt;div class=&quot;card-body p-0&quot;&gt;
+										&lt;div class=&quot;border-bottom border-width-2 pb-3 mb-4&quot;&gt;
+											&lt;h4 class=&quot;mb-0&quot;&gt;Snakes&lt;/h4&gt;
+										&lt;/div&gt;
+
+										&lt;ul class=&quot;list-style5 text-center text-sm-start&quot;&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-05.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Lemon corns&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div class=&quot;mb-3&quot;&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;1030 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;70 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;30 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;01 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-06.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Makhana&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;1011 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;47 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;43 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;10 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+										&lt;/ul&gt;
+									&lt;/div&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;div&gt;
+						&lt;div class=&quot;row mt-n2-6 g-lg-5&quot;&gt;
+							&lt;div class=&quot;col-lg-6 mt-2-6&quot;&gt;
+								&lt;div class=&quot;card border-0 border-radius-none&quot;&gt;
+									&lt;div class=&quot;card-body p-0&quot;&gt;
+										&lt;div class=&quot;border-bottom border-width-2 pb-3 mb-4&quot;&gt;
+											&lt;h4 class=&quot;mb-0&quot;&gt;Breakfast&lt;/h4&gt;
+										&lt;/div&gt;
+
+										&lt;ul class=&quot;list-style5 text-center text-sm-start&quot;&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-01.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Mushroom bucatini&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div class=&quot;mb-3&quot;&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;1020 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;120 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;56 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;27 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-02.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Greek green salad&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;1000 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;110 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;39 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;05 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+										&lt;/ul&gt;
+									&lt;/div&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+
+							&lt;div class=&quot;col-lg-6 mt-2-6&quot;&gt;
+								&lt;div class=&quot;card border-0 border-radius-none&quot;&gt;
+									&lt;div class=&quot;card-body p-0&quot;&gt;
+										&lt;div class=&quot;border-bottom border-width-2 pb-3 mb-4&quot;&gt;
+											&lt;h4 class=&quot;mb-0&quot;&gt;Lunch&lt;/h4&gt;
+										&lt;/div&gt;
+
+										&lt;ul class=&quot;list-style5 text-center text-sm-start&quot;&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-03.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Mix Fruits Honey&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div class=&quot;mb-3&quot;&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;1010 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;80 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;90 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;10 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-04.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Greek salad&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;900 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;100 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;52 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;02 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+										&lt;/ul&gt;
+									&lt;/div&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+
+							&lt;div class=&quot;col-lg-6 mt-2-6&quot;&gt;
+								&lt;div class=&quot;card border-0 border-radius-none&quot;&gt;
+									&lt;div class=&quot;card-body p-0&quot;&gt;
+										&lt;div class=&quot;border-bottom border-width-2 pb-3 mb-4&quot;&gt;
+											&lt;h4 class=&quot;mb-0&quot;&gt;Snakes&lt;/h4&gt;
+										&lt;/div&gt;
+
+										&lt;ul class=&quot;list-style5 text-center text-sm-start&quot;&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-05.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Lemon corns&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div class=&quot;mb-3&quot;&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;1030 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;70 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;30 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;01 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-06.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Makhana&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;1011 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;47 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;43 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;10 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+										&lt;/ul&gt;
+									&lt;/div&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+
+							&lt;div class=&quot;col-lg-6 mt-2-6&quot;&gt;
+								&lt;div class=&quot;card border-0 border-radius-none&quot;&gt;
+									&lt;div class=&quot;card-body p-0&quot;&gt;
+										&lt;div class=&quot;border-bottom border-width-2 pb-3 mb-4&quot;&gt;
+											&lt;h4 class=&quot;mb-0&quot;&gt;Dinner&lt;/h4&gt;
+										&lt;/div&gt;
+
+										&lt;ul class=&quot;list-style5 text-center text-sm-start&quot;&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-07.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Mix vegetable salad&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div class=&quot;mb-3&quot;&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;1000 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;50 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;26 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;03 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-08.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Mexican salad&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;1030 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;80 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;51 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;06 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+										&lt;/ul&gt;
+									&lt;/div&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;div&gt;
+						&lt;div class=&quot;row mt-n2-6 g-lg-5&quot;&gt;
+							&lt;div class=&quot;col-lg-6 mt-2-6&quot;&gt;
+								&lt;div class=&quot;card border-0 border-radius-none&quot;&gt;
+									&lt;div class=&quot;card-body p-0&quot;&gt;
+										&lt;div class=&quot;border-bottom border-width-2 pb-3 mb-4&quot;&gt;
+											&lt;h4 class=&quot;mb-0&quot;&gt;Lunch&lt;/h4&gt;
+										&lt;/div&gt;
+
+										&lt;ul class=&quot;list-style5 text-center text-sm-start&quot;&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-03.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Mix Fruits Honey&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div class=&quot;mb-3&quot;&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;1010 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;80 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;90 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;10 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-04.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Greek salad&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;900 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;100 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;52 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;02 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+										&lt;/ul&gt;
+									&lt;/div&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+
+							&lt;div class=&quot;col-lg-6 mt-2-6&quot;&gt;
+								&lt;div class=&quot;card border-0 border-radius-none&quot;&gt;
+									&lt;div class=&quot;card-body p-0&quot;&gt;
+										&lt;div class=&quot;border-bottom border-width-2 pb-3 mb-4&quot;&gt;
+											&lt;h4 class=&quot;mb-0&quot;&gt;Snakes&lt;/h4&gt;
+										&lt;/div&gt;
+
+										&lt;ul class=&quot;list-style5 text-center text-sm-start&quot;&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-05.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Lemon corns&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div class=&quot;mb-3&quot;&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;1030 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;70 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;30 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;01 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-06.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Makhana&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;1011 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;47 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;43 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;10 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+										&lt;/ul&gt;
+									&lt;/div&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+
+							&lt;div class=&quot;col-lg-6 mt-2-6&quot;&gt;
+								&lt;div class=&quot;card border-0 border-radius-none&quot;&gt;
+									&lt;div class=&quot;card-body p-0&quot;&gt;
+										&lt;div class=&quot;border-bottom border-width-2 pb-3 mb-4&quot;&gt;
+											&lt;h4 class=&quot;mb-0&quot;&gt;Dinner&lt;/h4&gt;
+										&lt;/div&gt;
+
+										&lt;ul class=&quot;list-style5 text-center text-sm-start&quot;&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-07.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Mix vegetable salad&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div class=&quot;mb-3&quot;&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;1000 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;50 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;26 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;03 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-08.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Mexican salad&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;1030 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;80 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;51 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;06 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+										&lt;/ul&gt;
+									&lt;/div&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;div&gt;
+						&lt;div class=&quot;row mt-n2-6 g-lg-5&quot;&gt;
+							&lt;div class=&quot;col-lg-6 mt-2-6&quot;&gt;
+								&lt;div class=&quot;card border-0 border-radius-none&quot;&gt;
+									&lt;div class=&quot;card-body p-0&quot;&gt;
+										&lt;div class=&quot;border-bottom border-width-2 pb-3 mb-4&quot;&gt;
+											&lt;h4 class=&quot;mb-0&quot;&gt;Lunch&lt;/h4&gt;
+										&lt;/div&gt;
+
+										&lt;ul class=&quot;list-style5 text-center text-sm-start&quot;&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-03.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Mix Fruits Honey&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div class=&quot;mb-3&quot;&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;1010 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;80 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;90 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;10 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-04.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Greek salad&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;900 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;100 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;52 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;02 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+										&lt;/ul&gt;
+									&lt;/div&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+
+							&lt;div class=&quot;col-lg-6 mt-2-6&quot;&gt;
+								&lt;div class=&quot;card border-0 border-radius-none&quot;&gt;
+									&lt;div class=&quot;card-body p-0&quot;&gt;
+										&lt;div class=&quot;border-bottom border-width-2 pb-3 mb-4&quot;&gt;
+											&lt;h4 class=&quot;mb-0&quot;&gt;Snakes&lt;/h4&gt;
+										&lt;/div&gt;
+
+										&lt;ul class=&quot;list-style5 text-center text-sm-start&quot;&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-05.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Lemon corns&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div class=&quot;mb-3&quot;&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;1030 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;70 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;30 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;01 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;text-center text-sm-start d-sm-flex mb-4&quot;&gt;
+													&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/meal-06.jpg&quot; /&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;flex-grow-1 ms-sm-4&quot;&gt;
+														&lt;h4 class=&quot;h5&quot;&gt;Makhana&lt;/h4&gt;
+
+														&lt;p class=&quot;mb-0&quot;&gt;Healthy desserts shockingly high in protein. A natural way of improving your health.&lt;/p&gt;
+													&lt;/div&gt;
+												&lt;/div&gt;
+
+												&lt;div&gt;
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Calories&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text-muted font-weight-600&quot;&gt;1011 kcal&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Carbohydrates&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;47 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Protein&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;43 g&lt;/span&gt;&lt;/div&gt;
+
+													&lt;div class=&quot;nutritional-info&quot;&gt;
+														&lt;h4 class=&quot;h6 mb-0&quot;&gt;Fat&lt;/h4&gt;
+														&lt;span class=&quot;seprator&quot;&gt;&lt;/span&gt; &lt;span&gt;10 g&lt;/span&gt;&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/li&gt;
+										&lt;/ul&gt;
+									&lt;/div&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;bg-secondary p-2-2 rounded-circle position-absolute bottom-10 left-5 d-none d-lg-block&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div class=&quot;bg-primary p-3 rounded-circle position-absolute bottom-10 left-5 ani-top-bottom d-none d-lg-block&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/section&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author></item>

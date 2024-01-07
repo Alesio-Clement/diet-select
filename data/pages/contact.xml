@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Fri, 05 Jan 2024 16:53:51 +0100</pubDate><title><![CDATA[contact]]></title><url><![CDATA[contact]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[
+&lt;section class=&quot;page-title-section bg-img cover-background&quot; data-background=&quot;../data/uploads/contact.jpg&quot; data-overlay-dark=&quot;6&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-md-12&quot;&gt;
+			&lt;h1&gt;Contact Us&lt;/h1&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-12&quot;&gt;
+			&lt;div class=&quot;breadcrumb&quot;&gt;&lt;span class=&quot;left-dot&quot;&gt;&lt;/span&gt; &lt;span class=&quot;right-dot&quot;&gt;&lt;/span&gt;
+
+				&lt;ul&gt;
+					&lt;li&gt;&lt;a href=&quot;index.html&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#!&quot;&gt;Contact Us&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;bg-transparent border-width-2 border-solid border-secondary p-3 d-sm-inline-block rounded-circle position-absolute bottom-10 left-5 ani-top-bottom d-none z-index-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div class=&quot;bg-secondary p-1-6 d-lg-block rounded-circle position-absolute top-25 right-25 ani-top-bottom d-none z-index-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div class=&quot;bg-white p-2 d-sm-inline-block rounded-circle position-absolute top-40 left-25 ani-left-right d-none z-index-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- CONTACT FORM
+        ================================================== --&gt;
+
+&lt;section&gt;
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;row g-0&quot;&gt;
+		&lt;div class=&quot;col-lg-7&quot;&gt;
+			&lt;div class=&quot;p-2-2 p-lg-2-9 box-shadow-style1 h-100&quot;&gt;
+				&lt;h2 class=&quot;mb-4&quot;&gt;Get In Touch&lt;/h2&gt;
+
+				&lt;form action=&quot;quform/contact.php&quot; class=&quot;contact quform&quot; enctype=&quot;multipart/form-data&quot; method=&quot;post&quot; onclick=&quot;&quot;&gt;
+				&lt;div class=&quot;quform-elements&quot;&gt;
+					&lt;div class=&quot;row&quot;&gt;&lt;!-- Begin Text input element --&gt;
+						&lt;div class=&quot;col-md-6&quot;&gt;
+							&lt;div class=&quot;quform-element form-group&quot;&gt;&lt;label for=&quot;name&quot;&gt;Your Name &lt;span class=&quot;quform-required&quot;&gt;*&lt;/span&gt;&lt;/label&gt;
+
+								&lt;div class=&quot;quform-input&quot;&gt;&lt;input class=&quot;form-control&quot; id=&quot;name&quot; name=&quot;name&quot; placeholder=&quot;Your name here&quot; type=&quot;text&quot; /&gt;&lt;/div&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+						&lt;!-- End Text input element --&gt;&lt;!-- Begin Text input element --&gt;
+
+						&lt;div class=&quot;col-md-6&quot;&gt;
+							&lt;div class=&quot;quform-element form-group&quot;&gt;&lt;label for=&quot;email&quot;&gt;Your Email &lt;span class=&quot;quform-required&quot;&gt;*&lt;/span&gt;&lt;/label&gt;
+
+								&lt;div class=&quot;quform-input&quot;&gt;&lt;input class=&quot;form-control&quot; id=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;Your email here&quot; type=&quot;text&quot; /&gt;&lt;/div&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+						&lt;!-- End Text input element --&gt;&lt;!-- Begin Text input element --&gt;
+
+						&lt;div class=&quot;col-md-6&quot;&gt;
+							&lt;div class=&quot;quform-element form-group&quot;&gt;&lt;label for=&quot;subject&quot;&gt;Your Subject &lt;span class=&quot;quform-required&quot;&gt;*&lt;/span&gt;&lt;/label&gt;
+
+								&lt;div class=&quot;quform-input&quot;&gt;&lt;input class=&quot;form-control&quot; id=&quot;subject&quot; name=&quot;subject&quot; placeholder=&quot;Your subject here&quot; type=&quot;text&quot; /&gt;&lt;/div&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+						&lt;!-- End Text input element --&gt;&lt;!-- Begin Text input element --&gt;
+
+						&lt;div class=&quot;col-md-6&quot;&gt;
+							&lt;div class=&quot;quform-element form-group&quot;&gt;&lt;label for=&quot;phone&quot;&gt;Contact Number&lt;/label&gt;
+
+								&lt;div class=&quot;quform-input&quot;&gt;&lt;input class=&quot;form-control&quot; id=&quot;phone&quot; name=&quot;phone&quot; placeholder=&quot;Your phone here&quot; type=&quot;text&quot; /&gt;&lt;/div&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+						&lt;!-- End Text input element --&gt;&lt;!-- Begin Textarea element --&gt;
+
+						&lt;div class=&quot;col-md-12&quot;&gt;
+							&lt;div class=&quot;quform-element form-group&quot;&gt;&lt;label for=&quot;message&quot;&gt;Message &lt;span class=&quot;quform-required&quot;&gt;*&lt;/span&gt;&lt;/label&gt;
+
+								&lt;div class=&quot;quform-input&quot;&gt;&lt;textarea class=&quot;form-control&quot; id=&quot;message&quot; name=&quot;message&quot; placeholder=&quot;Tell us a few words&quot; rows=&quot;3&quot;&gt;&lt;/textarea&gt;&lt;/div&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+						&lt;!-- End Textarea element --&gt;&lt;!-- Begin Submit button --&gt;
+
+						&lt;div class=&quot;col-md-12&quot;&gt;
+							&lt;div class=&quot;quform-submit-inner&quot;&gt;&lt;button class=&quot;butn border-0&quot; type=&quot;submit&quot;&gt;Send Message&lt;/button&gt;&lt;/div&gt;
+
+							&lt;div class=&quot;quform-loading-wrap text-start&quot;&gt;&lt;span class=&quot;quform-loading&quot;&gt;&lt;/span&gt;&lt;/div&gt;
+						&lt;/div&gt;
+						&lt;!-- End Submit button --&gt;&lt;/div&gt;
+				&lt;/div&gt;
+				&lt;/form&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-5 bg-img cover-background theme-overlay&quot; data-background=&quot;img/content/contact-image.jpg&quot; data-overlay-dark=&quot;9&quot;&gt;
+			&lt;div class=&quot;p-1-9 p-lg-2-9 position-relative z-index-1 h-100&quot;&gt;
+				&lt;h2 class=&quot;mb-3 text-white&quot;&gt;Our Contact Detail&lt;/h2&gt;
+
+				&lt;p class=&quot;mb-2-2 text-white display-sm-28&quot;&gt;Need any consultations contact with us&lt;/p&gt;
+
+				&lt;div class=&quot;d-flex mb-4 pb-3 border-bottom border-color-light-white&quot;&gt;
+					&lt;div class=&quot;flex-shrink-0 mt-2&quot;&gt;&lt;i class=&quot;fas fa-phone-alt text-secondary fs-2&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+
+					&lt;div class=&quot;flex-grow-1 ms-4&quot;&gt;
+						&lt;h3 class=&quot;h5 text-white&quot;&gt;Phone Number&lt;/h3&gt;
+						&lt;span class=&quot;text-white d-block mb-1&quot;&gt; +254 737 226 850&lt;/span&gt;&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;d-flex mb-4 pb-3 border-bottom border-color-light-white&quot;&gt;
+					&lt;div class=&quot;flex-shrink-0 mt-2&quot;&gt;&lt;i class=&quot;far fa-envelope-open text-secondary fs-2&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+
+					&lt;div class=&quot;flex-grow-1 ms-4&quot;&gt;
+						&lt;h3 class=&quot;h5 text-white&quot;&gt;Email Address&lt;/h3&gt;
+						&lt;span class=&quot;text-white d-block mb-1&quot;&gt; info@diet-select.co.ke&lt;/span&gt;&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;d-flex mb-4 pb-3 border-bottom border-color-light-white&quot;&gt;
+					&lt;div class=&quot;flex-shrink-0 mt-2&quot;&gt;&lt;i class=&quot;fas fa-map-marker-alt text-secondary fs-2&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+
+					&lt;div class=&quot;flex-grow-1 ms-4&quot;&gt;
+						&lt;h3 class=&quot;h5 text-white&quot;&gt;Loaction&lt;/h3&gt;
+
+						&lt;address class=&quot;text-white d-block mb-0 w-md-80 w-xl-70&quot;&gt;8th Flr, Fortis Suites, Hospital Rd, Upper Hill.&lt;/address&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;ul class=&quot;contact-social-icons&quot;&gt;
+					&lt;li&gt;&lt;a href=&quot;#!&quot;&gt;&lt;i class=&quot;fab fa-facebook-f&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#!&quot;&gt;&lt;i class=&quot;fab fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#!&quot;&gt;&lt;i class=&quot;fab fa-youtube&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#!&quot;&gt;&lt;i class=&quot;fab fa-linkedin-in&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- MAP
+        ================================================== --&gt;
+
+&lt;div&gt;&lt;iframe allowfullscreen=&quot;&quot; class=&quot;map-h500&quot; id=&quot;gmap_canvas&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer-when-downgrade&quot; src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31910.35143856125!2d36.80884220459834!3d-1.298383951230258!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f1185ebe5173f%3A0x48d8b5367310016c!2sFortis%20Suites%20UpperHill!5e0!3m2!1sen!2ske!4v1704469895342!5m2!1sen!2ske&quot; style=&quot;border:0;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author></item>

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Fri, 05 Jan 2024 15:01:42 +0100</pubDate><title><![CDATA[about-us]]></title><url><![CDATA[about-us]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[
+
+
+&lt;section class=&quot;page-title-section bg-img cover-background&quot; data-background=&quot;../data/uploads/about-us.webp&quot; data-overlay-dark=&quot;6&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-md-12&quot;&gt;
+			&lt;h1&gt;About Us&lt;/h1&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-12&quot;&gt;
+			&lt;div class=&quot;breadcrumb&quot;&gt;&lt;span class=&quot;left-dot&quot;&gt;&lt;/span&gt; &lt;span class=&quot;right-dot&quot;&gt;&lt;/span&gt;
+
+				&lt;ul&gt;
+					&lt;li&gt;&lt;a href=&quot;index.html&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#!&quot;&gt;About Us&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;bg-transparent border-width-2 border-solid border-secondary p-3 d-sm-inline-block rounded-circle position-absolute bottom-10 left-5 ani-top-bottom d-none z-index-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div class=&quot;bg-secondary p-1-6 d-lg-block rounded-circle position-absolute top-25 right-25 ani-top-bottom d-none z-index-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div class=&quot;bg-white p-2 d-sm-inline-block rounded-circle position-absolute top-40 left-25 ani-left-right d-none z-index-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- ABOUTUS
+        ================================================== --&gt;
+
+&lt;section&gt;
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;row align-items-xl-center&quot;&gt;
+		&lt;div class=&quot;col-lg-5 mb-2-5 mb-lg-0&quot;&gt;
+			&lt;div class=&quot;position-relative&quot;&gt;
+				&lt;div class=&quot;row&quot;&gt;
+					&lt;div class=&quot;col-6&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;mb-4 border-radius-10&quot; src=&quot;../data/uploads/about22.webp&quot; /&gt; &lt;img alt=&quot;...&quot; class=&quot;border-radius-10&quot; src=&quot;../data/uploads/about44.webp&quot; /&gt;&lt;/div&gt;
+
+					&lt;div class=&quot;col-6 mt-4 mt-lg-6&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;mb-4 border-radius-10&quot; src=&quot;../data/uploads/content/about-04.jpg&quot; /&gt; &lt;img alt=&quot;...&quot; class=&quot;border-radius-10&quot; src=&quot;../data/uploads/about33.webp&quot; /&gt;&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;about-exp-box border-radius-10&quot;&gt;
+					&lt;div class=&quot;about-exp-content&quot;&gt;
+						&lt;h2 class=&quot;countup&quot;&gt;5&lt;/h2&gt;
+
+						&lt;h6 class=&quot;text-white mb-0&quot;&gt;Years Of Experience&lt;/h6&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-7&quot;&gt;
+			&lt;div class=&quot;ps-lg-2-2 ps-xl-6&quot;&gt;
+				&lt;h2 class=&quot;h1 mb-1-6 font-weight-400&quot;&gt;We advise you to &lt;span class=&quot;fw-bolder&quot;&gt;prevent disease with nutrition&lt;/span&gt; for healthy life.&lt;/h2&gt;
+
+				&lt;p class=&quot;w-90 display-sm-28 mb-1-9&quot;&gt;Our curriculum is primarily based totally in slicing side psychology, mind science, nutrition, intuitive listening, addiction change. and healthful way of life design.&lt;/p&gt;
+
+				&lt;div class=&quot;about-us mb-1-9 mt-n1-9 row border-bottom pb-1-9&quot;&gt;
+					&lt;div class=&quot;col-md-6 mt-1-9&quot;&gt;
+						&lt;div class=&quot;d-flex&quot;&gt;
+							&lt;div class=&quot;flex-shrink-0&quot;&gt;
+								&lt;div class=&quot;about-icon&quot;&gt;&lt;img alt=&quot;...&quot; src=&quot;../data/uploads/icons/icon-13.png&quot; /&gt;&lt;/div&gt;
+							&lt;/div&gt;
+
+							&lt;div class=&quot;flex-grow-1 ms-4&quot;&gt;
+								&lt;h4&gt;Assess diet and lifestyle choices&lt;/h4&gt;
+
+								&lt;p class=&quot;mb-0 display-sm-28&quot;&gt;Our nutrition team love the benefits of exercise and healthy food.&lt;/p&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;col-md-6 mt-1-9&quot;&gt;
+						&lt;div class=&quot;d-flex&quot;&gt;
+							&lt;div class=&quot;flex-shrink-0&quot;&gt;
+								&lt;div class=&quot;about-icon&quot;&gt;&lt;img alt=&quot;...&quot; src=&quot;../data/uploads/icons/icon-14.png&quot; /&gt;&lt;/div&gt;
+							&lt;/div&gt;
+
+							&lt;div class=&quot;flex-grow-1 ms-4&quot;&gt;
+								&lt;h4&gt;Fitness &amp;amp; Performance&lt;/h4&gt;
+
+								&lt;p class=&quot;mb-0 display-sm-28&quot;&gt;Our nutrition team love the benefits of exercise and healthy food.&lt;/p&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;d-flex align-items-center&quot;&gt;
+					&lt;div class=&quot;flex-shrink-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded w-60px&quot; src=&quot;../data/uploads/joy.png&quot; /&gt; &lt;i class=&quot;fas fa-phone-alt bg-secondary service-icon&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+
+					&lt;div class=&quot;flex-grow-1 ms-3&quot;&gt;
+						&lt;p class=&quot;text-secondary mb-1&quot;&gt;We grow with love&lt;/p&gt;
+
+						&lt;h4 class=&quot;text-primary mb-0 title-font&quot;&gt;Our experts give best health tips&lt;/h4&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;d-inline-block p-3 bg-secondary position-absolute rounded-circle top-20 right-5 ani-left-right&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- OUR STRENGTH
+        ================================================== --&gt;
+
+&lt;section class=&quot;bg-light&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;section-heading&quot;&gt;&lt;span class=&quot;text-secondary title-font display-25 display-md-23 d-block mb-1&quot;&gt;Our strength&lt;/span&gt;
+
+		&lt;h2&gt;Why people need&lt;span class=&quot;fw-bolder&quot;&gt; a health living&lt;/span&gt;&lt;/h2&gt;
+
+		&lt;p class=&quot;mb-0 w-md-80 w-lg-70 w-xl-50 mx-auto&quot;&gt;We connect buyers and sellers of natural, organic, environmentally sound products. We find the best suppliers and makers of natural and organic products.&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;row mt-n1-9&quot;&gt;
+		&lt;div class=&quot;col-lg-6 mt-1-9&quot;&gt;
+			&lt;div class=&quot;card card-style5&quot;&gt;
+				&lt;div class=&quot;card-body&quot;&gt;
+					&lt;div class=&quot;text-center text-sm-start d-sm-flex&quot;&gt;
+						&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/health-01.jpg&quot; /&gt;&lt;/div&gt;
+
+						&lt;div class=&quot;flex-grow-1 ms-sm-1-9&quot;&gt;
+							&lt;h4 class=&quot;mb-3 text-primary&quot;&gt;&lt;span class=&quot;title-font&quot;&gt;01&lt;/span&gt;Diet Plans&lt;/h4&gt;
+
+							&lt;p class=&quot;mb-0&quot;&gt;Our nutrition team love the benefits of exercise and healthy food. We are consistently prepared to serve you the best.&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-6 mt-1-9&quot;&gt;
+			&lt;div class=&quot;card card-style5&quot;&gt;
+				&lt;div class=&quot;card-body&quot;&gt;
+					&lt;div class=&quot;text-center text-sm-start d-sm-flex&quot;&gt;
+						&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;https://placehold.co/130x130&quot; /&gt;&lt;/div&gt;
+
+						&lt;div class=&quot;flex-grow-1 ms-sm-1-9&quot;&gt;
+							&lt;h4 class=&quot;mb-3 text-primary&quot;&gt;&lt;span class=&quot;title-font&quot;&gt;02&lt;/span&gt;Workouts&lt;/h4&gt;
+
+							&lt;p class=&quot;mb-0&quot;&gt;Our nutrition team love the benefits of exercise and healthy food. We are consistently prepared to serve you the best.&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-6 mt-1-9&quot;&gt;
+			&lt;div class=&quot;card card-style5&quot;&gt;
+				&lt;div class=&quot;card-body&quot;&gt;
+					&lt;div class=&quot;text-center text-sm-start d-sm-flex&quot;&gt;
+						&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;https://placehold.co/130x130&quot; /&gt;&lt;/div&gt;
+
+						&lt;div class=&quot;flex-grow-1 ms-sm-1-9&quot;&gt;
+							&lt;h4 class=&quot;mb-3 text-primary&quot;&gt;&lt;span class=&quot;title-font&quot;&gt;03&lt;/span&gt;Health Goals&lt;/h4&gt;
+
+							&lt;p class=&quot;mb-0&quot;&gt;Our nutrition team love the benefits of exercise and healthy food. We are consistently prepared to serve you the best.&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-6 mt-1-9&quot;&gt;
+			&lt;div class=&quot;card card-style5&quot;&gt;
+				&lt;div class=&quot;card-body&quot;&gt;
+					&lt;div class=&quot;text-center text-sm-start d-sm-flex&quot;&gt;
+						&lt;div class=&quot;flex-shrink-0 mb-4 mb-md-0&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/health-04.jpg&quot; /&gt;&lt;/div&gt;
+
+						&lt;div class=&quot;flex-grow-1 ms-sm-1-9&quot;&gt;
+							&lt;h4 class=&quot;mb-3 text-primary&quot;&gt;&lt;span class=&quot;title-font&quot;&gt;04&lt;/span&gt;Nutrition Food&lt;/h4&gt;
+
+							&lt;p class=&quot;mb-0&quot;&gt;Our nutrition team love the benefits of exercise and healthy food. We are consistently prepared to serve you the best.&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;bg-primary p-8 p-lg-9 rounded-circle position-absolute top-5 left-n5 ani-left-right d-none d-lg-block&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div class=&quot;bg-transparent border-width-2 border-solid border-secondary p-8 p-lg-9 rounded-circle position-absolute top-10 left-n5 z-index-1 ani-top-bottom d-none d-lg-block&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- TESTIMONIAL
+        ================================================== --&gt;
+
+&lt;section class=&quot;mx-lg-6 mx-xl-9 mx-xxl-12 p-0 testimonial-1 overflow-visible&quot;&gt;
+&lt;div class=&quot;container-fluid&quot;&gt;
+	&lt;div class=&quot;row justify-content-center&quot;&gt;
+		&lt;div class=&quot;col-md-5 col-xl-6 pe-md-0 d-none d-lg-block&quot;&gt;
+			&lt;div class=&quot;position-relative h-100 vw-lg-50 bg-img cover-background overflow-visible py-8 py-xl-10 border-start-md-radius-10 border-top-sm-radius-10&quot; data-background=&quot;../data/uploads/content/testimonial-bg.png&quot; data-overlay-dark=&quot;0&quot;&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-7 col-xl-6 ps-lg-0&quot;&gt;
+			&lt;div class=&quot;bg-light h-100 position-relative p-2-2 p-lg-8 p-xl-10 p-xxl-13 border-end-md-radius-10 border-bottom-sm-radius-10&quot;&gt;
+				&lt;div class=&quot;section-heading text-start mb-4&quot;&gt;&lt;span class=&quot;text-secondary title-font display-25 display-md-23 d-block mb-1&quot;&gt;Testimonials&lt;/span&gt;
+
+					&lt;h2 class=&quot;mb-0&quot;&gt;What our &lt;span class=&quot;fw-bolder&quot;&gt;customer say&lt;/span&gt;&lt;/h2&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;testimonial-style2 owl-carousel owl-theme&quot;&gt;
+					&lt;div class=&quot;testimonial-03&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle mb-4&quot; src=&quot;../data/uploads/avater1.PNG&quot; /&gt;
+						&lt;p class=&quot;mb-1-9 display-28 display-lg-27 display-xl-26 display-xxl-25&quot;&gt;As an athlete, I needed a nutritionist who understood the demands of my training. Diet Select not only optimized my diet for peak performance but also educated me on fueling my body effectively. I&#039;ve seen significant improvements in my endurance and recovery. Highly recommended!&lt;/p&gt;
+
+						&lt;h4 class=&quot;h5 text-secondary&quot;&gt;Hope Roberts&lt;/h4&gt;
+						&lt;span class=&quot;text-capitalize opacity8&quot;&gt;Athlete &lt;/span&gt;&lt;/div&gt;
+
+					&lt;div class=&quot;testimonial-03&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle mb-4&quot; src=&quot;../data/uploads/avater2.PNG&quot; /&gt;
+						&lt;p class=&quot;mb-1-9 display-28 display-lg-27 display-xl-26 display-xxl-25&quot;&gt;I approached diet select not just for weight loss but for a complete lifestyle transformation. Their holistic approach, including diet, exercise, and mindset, has been transformative. I&#039;ve not only lost weight but gained a new perspective on health and wellness. Thank you for the journey!&lt;/p&gt;
+
+						&lt;h4 class=&quot;h5 text-secondary&quot;&gt;Sapphire Aster&lt;/h4&gt;
+						&lt;span class=&quot;text-capitalize opacity8&quot;&gt;Nutritionist&lt;/span&gt;&lt;/div&gt;
+
+					&lt;div class=&quot;testimonial-03&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle mb-4&quot; src=&quot;../data/uploads/avater3.PNG&quot; /&gt;
+						&lt;p class=&quot;mb-1-9 display-28 display-lg-27 display-xl-26 display-xxl-25&quot;&gt;Thrilled with the results from [Nutritionist Name]! Improved my sports performance with a targeted nutrition plan. Noticeable gains in endurance and recovery.&lt;/p&gt;
+
+						&lt;h4 class=&quot;h5 text-secondary&quot;&gt;Alesio Clement&lt;/h4&gt;
+						&lt;span class=&quot;text-capitalize opacity8&quot;&gt;Athlete&lt;/span&gt;&lt;/div&gt;
+				&lt;/div&gt;
+				&lt;img alt=&quot;...&quot; class=&quot;position-absolute w-50px w-lg-100px bottom-5 right-10 opacity3&quot; src=&quot;../data/uploads/icons/quote.png&quot; /&gt; &lt;img alt=&quot;...&quot; class=&quot;position-absolute end-0 bottom-0 opacity2&quot; src=&quot;./data/uploads/content/testimonial-bg.png&quot; /&gt;&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;bg-white z-index-2 p-8 d-inline-block rounded-circle position-absolute shape1 d-none d-lg-block&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div class=&quot;bg-secondary z-index-2 p-4 d-inline-block rounded-circle position-absolute shape2&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div class=&quot;bg-primary z-index-2 p-2 d-inline-block rounded-circle position-absolute shape3 d-none d-lg-block&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- PROCESS
+        ================================================== --&gt;
+
+&lt;section&gt;
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;section-heading&quot;&gt;&lt;span class=&quot;text-secondary title-font display-25 display-md-23 d-block mb-1&quot;&gt;How to start&lt;/span&gt;
+
+		&lt;h2&gt;It&#039;s easy to&lt;span class=&quot;fw-bolder&quot;&gt; start today!&lt;/span&gt;&lt;/h2&gt;
+
+		&lt;p class=&quot;mb-0 w-md-80 w-lg-70 w-xl-50 mx-auto&quot;&gt;We connect buyers and sellers of natural, organic, environmentally sound products. We find the best suppliers and makers of natural and organic products.&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;row process-number-counter mt-n1-9&quot;&gt;
+		&lt;div class=&quot;col-sm-6 col-lg-3 mt-1-9&quot;&gt;
+			&lt;div class=&quot;process-style1&quot;&gt;
+				&lt;div class=&quot;process-image&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/process-01.jpg&quot; /&gt;
+					&lt;div class=&quot;process-num title-font&quot;&gt;&amp;nbsp;&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;h4&gt;Registered Dietician&lt;/h4&gt;
+
+				&lt;p class=&quot;mb-0 w-md-95 w-lg-85 mx-auto&quot;&gt;You have the ability to make your own schedule.&lt;/p&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-sm-6 col-lg-3 mt-1-9&quot;&gt;
+			&lt;div class=&quot;process-style1&quot;&gt;
+				&lt;div class=&quot;process-image&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/process-2.jpg&quot; /&gt;
+					&lt;div class=&quot;process-num title-font&quot;&gt;&amp;nbsp;&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;h4&gt;Schedule Exercise&lt;/h4&gt;
+
+				&lt;p class=&quot;mb-0 w-md-95 w-lg-85 mx-auto&quot;&gt;You have the ability to make your own schedule.&lt;/p&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-sm-6 col-lg-3 mt-1-9&quot;&gt;
+			&lt;div class=&quot;process-style1&quot;&gt;
+				&lt;div class=&quot;process-image&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/content/process-03.jpg&quot; /&gt;
+					&lt;div class=&quot;process-num title-font&quot;&gt;&amp;nbsp;&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;h4&gt;Nutrition Consultation&lt;/h4&gt;
+
+				&lt;p class=&quot;mb-0 w-md-95 w-lg-85 mx-auto&quot;&gt;You have the ability to make your own schedule.&lt;/p&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-sm-6 col-lg-3 mt-1-9&quot;&gt;
+			&lt;div class=&quot;process-style1 last-arrow&quot;&gt;
+				&lt;div class=&quot;process-image&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;https://placehold.co/178x178&quot; /&gt;
+					&lt;div class=&quot;process-num title-font&quot;&gt;&amp;nbsp;&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;h4&gt;Disease Management&lt;/h4&gt;
+
+				&lt;p class=&quot;mb-0 w-md-95 w-lg-85 mx-auto&quot;&gt;You have the ability to make your own schedule.&lt;/p&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author></item>

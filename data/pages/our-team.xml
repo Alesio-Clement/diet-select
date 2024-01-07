@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Fri, 05 Jan 2024 16:11:22 +0100</pubDate><title><![CDATA[our-team]]></title><url><![CDATA[our-team]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[
+&lt;section class=&quot;page-title-section bg-img cover-background&quot; data-background=&quot;../data/uploads/about-us2.JPG&quot; data-overlay-dark=&quot;6&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-md-12&quot;&gt;
+			&lt;h1&gt;Our Team&lt;/h1&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-12&quot;&gt;
+			&lt;div class=&quot;breadcrumb&quot;&gt;&lt;span class=&quot;left-dot&quot;&gt;&lt;/span&gt; &lt;span class=&quot;right-dot&quot;&gt;&lt;/span&gt;
+
+				&lt;ul&gt;
+					&lt;li&gt;&lt;a href=&quot;index.html&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#!&quot;&gt;Our Team&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;bg-transparent border-width-2 border-solid border-secondary p-3 d-sm-inline-block rounded-circle position-absolute bottom-10 left-5 ani-top-bottom d-none z-index-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div class=&quot;bg-secondary p-1-6 d-lg-block rounded-circle position-absolute top-25 right-25 ani-top-bottom d-none z-index-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div class=&quot;bg-white p-2 d-sm-inline-block rounded-circle position-absolute top-40 left-25 ani-left-right d-none z-index-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- TEAM
+        ================================================== --&gt;
+
+&lt;section&gt;
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;section-heading&quot;&gt;&lt;span class=&quot;text-secondary title-font display-25 display-md-23 d-block mb-1&quot;&gt;Diet &amp;amp; nutrition experts&lt;/span&gt;
+
+		&lt;h2&gt;&lt;span class=&quot;fw-bolder&quot;&gt; Expert team&lt;/span&gt; members&lt;/h2&gt;
+
+		&lt;p class=&quot;mb-0 w-md-80 w-lg-70 w-xl-50 mx-auto&quot;&gt;We connect buyers and sellers of natural, organic, environmentally sound products. We find the best suppliers and makers of natural and organic products.&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;row g-xxl-5 mt-n1-9&quot;&gt;
+		&lt;div class=&quot;col-sm-6 col-lg-3 mt-1-9&quot;&gt;
+			&lt;div class=&quot;card-style3&quot;&gt;
+				&lt;div class=&quot;pb-1-9&quot;&gt;
+					&lt;div class=&quot;card-image position-relative&quot;&gt;
+						&lt;div class=&quot;card-icons&quot;&gt;&lt;span class=&quot;card-icon ti-close&quot;&gt;&lt;/span&gt;&lt;/div&gt;
+						&lt;a class=&quot;card-inner-img&quot; href=&quot;#!&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;../data/uploads/joy.webp&quot; /&gt; &lt;/a&gt;&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;text-center&quot;&gt;
+					&lt;h3 class=&quot;h4 mb-1&quot;&gt;&lt;a href=&quot;team-details.html&quot;&gt;Awuor Joyce&lt;/a&gt;&lt;/h3&gt;
+
+					&lt;p class=&quot;mb-0&quot;&gt;Founder / Diet &amp;amp; Nutrition&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-sm-6 col-lg-3 mt-1-9&quot;&gt;
+			&lt;div class=&quot;card-style3&quot;&gt;
+				&lt;div class=&quot;pb-1-9&quot;&gt;
+					&lt;div class=&quot;card-image position-relative&quot;&gt;
+						&lt;div class=&quot;card-icons&quot;&gt;&lt;span class=&quot;card-icon ti-close&quot;&gt;&lt;/span&gt;&lt;/div&gt;
+						&lt;a class=&quot;card-inner-img&quot; href=&quot;#!&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;https://placehold.co/501x501&quot; /&gt; &lt;/a&gt;&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;text-center&quot;&gt;
+					&lt;h3 class=&quot;h4 mb-1&quot;&gt;&lt;a href=&quot;team-details.html&quot;&gt;Jane Doe&lt;/a&gt;&lt;/h3&gt;
+
+					&lt;p class=&quot;mb-0&quot;&gt;General Dietician&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-sm-6 col-lg-3 mt-1-9&quot;&gt;
+			&lt;div class=&quot;card-style3&quot;&gt;
+				&lt;div class=&quot;pb-1-9&quot;&gt;
+					&lt;div class=&quot;card-image position-relative&quot;&gt;
+						&lt;div class=&quot;card-icons&quot;&gt;&lt;span class=&quot;card-icon ti-close&quot;&gt;&lt;/span&gt;&lt;/div&gt;
+						&lt;a class=&quot;card-inner-img&quot; href=&quot;#!&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;https://placehold.co/501x501&quot; /&gt; &lt;/a&gt;&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;text-center&quot;&gt;
+					&lt;h3 class=&quot;h4 mb-1&quot;&gt;&lt;a href=&quot;team-details.html&quot;&gt;John Doe&lt;/a&gt;&lt;/h3&gt;
+
+					&lt;p class=&quot;mb-0&quot;&gt;General Nutrition&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-sm-6 col-lg-3 mt-1-9&quot;&gt;
+			&lt;div class=&quot;card-style3&quot;&gt;
+				&lt;div class=&quot;pb-1-9&quot;&gt;
+					&lt;div class=&quot;card-image position-relative&quot;&gt;
+						&lt;div class=&quot;card-icons&quot;&gt;&lt;span class=&quot;card-icon ti-close&quot;&gt;&lt;/span&gt;&lt;/div&gt;
+						&lt;a class=&quot;card-inner-img&quot; href=&quot;#!&quot;&gt;&lt;img alt=&quot;...&quot; class=&quot;rounded-circle&quot; src=&quot;https://placehold.co/501x501&quot; /&gt; &lt;/a&gt;&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;text-center&quot;&gt;
+					&lt;h3 class=&quot;h4 mb-1&quot;&gt;&lt;a href=&quot;team-details.html&quot;&gt;Doe John Jane&lt;/a&gt;&lt;/h3&gt;
+
+					&lt;p class=&quot;mb-0&quot;&gt;General Dietician&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author></item>
